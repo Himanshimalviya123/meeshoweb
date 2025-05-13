@@ -1,0 +1,146 @@
+#header
+{
+    width: 20%;
+    /* padding: 10px; */
+    background-color: white;
+    text-align: right;
+}
+
+#oo{
+    border-right: 1px solid black;
+    border-spacing: 2px;
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+h1{
+    text-align: center;
+}
+
+#cardData
+{
+    display:  flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-around;
+}
+
+#topHeader
+{
+    top: 0;
+    position: sticky;
+  z-index:3;
+
+}
+#meesho{
+    width: 50%;
+}
+#navdown{
+    width: 100%;
+    height: 40px;
+    background-color:whitesmoke;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+#next  {
+    width: 100%;
+    height: 60px;
+    background-color: plum;
+    display: flex;
+    justify-content:center;
+    gap: 40px;
+}
+
+.nextdown{
+    width: 90%;
+    height: 40px;
+    text-align: center;
+    background-color: white;
+    display: flex;
+    justify-content:center;
+    gap: 40px;
+    margin-top:10px ;
+    border: 2px solid purple;
+    border-radius: 30px;
+
+}
+
+.d-flex{
+    width: 70%;
+}
+#oo{
+    border-right: 1px solid black;
+    border-spacing: 2px;
+    margin-l: 15%;
+    
+}
+#images{
+    justify-content: space-around;
+    gap: 10px;
+    width: 150%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+     display: flex;
+    justify-content: space-around; 
+    
+   
+}
+#cardData{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+   margin-bottom: 30px;
+    gap: 20px;
+    width: 100%;
+
+}
+#brands{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#brands-name {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: aquamarine;
+    width: 100%;
+    height: 100px;
+    margin-top: 20px;
+    padding: 20px;
+}
+#cardData
+{
+    display:  flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-around;
+}
+#ftr{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 450px;
+    margin-top: 30px;
+    padding: 30px;
+ 
+
+    /* display: flex; */
+    /* justify-content: space-between; */
+}
+#footer
+ {
+    width: 100%;
+    padding: 10px;
+     
+    margin-top: 30px;
+    display:flex;
+    gap: 30px;
+}
