@@ -16,7 +16,7 @@ const Header=()=>{
 const navigate= useNavigate();
     return(
         <>
-         
+       
          <Navbar expand="lg" className="bg-body-tertiary">
       <Container fluid>
       <div id="meesho"><img src={img1} width="80%" height="50px" />
@@ -47,6 +47,7 @@ const navigate= useNavigate();
 
       </Container>
     </Navbar>
+
    
         </>
     )

@@ -1,5 +1,8 @@
 
 
+import { GiReturnArrow } from "react-icons/gi";
+import { HiCurrencyRupee } from "react-icons/hi";
+import { ImPriceTags } from "react-icons/im";
 
 import myimg from "../images/image1.webp";
 import myimg11 from "../images/image2.webp";
@@ -30,6 +33,11 @@ import myimg21 from "../images/s5.webp";
 import myimg22 from "../images/s7.webp";
 import myimg23 from "../images/s8.webp";
 import myimg24 from "../images/s9.webp";
+import myimg25 from "../images/image11.webp";
+import myimg26 from "../images/d1.webp";
+import myimg27 from "../images/d2.webp";
+import myimg28 from "../images/d3.webp";
+import myimg29 from "../images/d4.webp";
 
 
 import { useState, useEffect } from 'react';
@@ -110,24 +118,17 @@ const Home=()=>{
 
 
 
-     <div id="navdown">
-                <div>Women Ethnic</div>
-                <div>Women Western</div>
-                <div>mens</div>
-                <div>kids</div>
-                <div>Home & Kitchen</div>
-                <div>Beauty & Health</div>
-                <div>Jewellery & Accessories</div>
-                <div>Bags & Footwear</div>
-                <div>electronics</div>
-
-            </div>
+     
+            {/* <div className="image-container" > */}
             <img src={myimg} width="100%" height="400px" />
+            <h1  className=" name">Smart Shopping<br/>Trusted by Millions</h1>
+            <button  className=" button">SHOP NOW</button>
+            {/* </div> */}
      <div id="next">
         <div className="nextdown">
-        <div>7 Days Easy Return</div>
-        <div>Cash on Delivery</div>
-        <div>Lowest Prices</div>
+        <div><GiReturnArrow />7 Days Easy Return</div>
+        <div><HiCurrencyRupee />Cash on Delivery</div>
+        <div><ImPriceTags />Lowest Prices</div>
         </div>
      </div>
      <div id="images">
@@ -149,7 +150,7 @@ const Home=()=>{
 <h5>grocery</h5></div>
 
      </div>
-     <img src={myimg11} />
+     <img src={myimg11}  width="100%" height="400px" />
      <center><h1>Original Brands</h1></center>
      <div id="brands">
       
@@ -175,15 +176,20 @@ const Home=()=>{
      <div><img src={myimg24} width="150px" height="60px"/></div>
      </div>
      </marquee>
+<div className="image-container">
+  <img src={myimg25}/>
 
-     <h1>Products For You</h1>
-      
+  <div class="overlay-div top-left"><img src={myimg26} />
+  <div>Summer Dresses</div></div>
+  <div class="overlay-div bottom-right"><img src={myimg27} />
+  <div>Baggy Jeans</div></div>
+  <div class="overlay-div center"><img src={myimg28} />
+  <div>Earrings</div></div>
+  <div class="overlay-div center1"><img src={myimg29} />
+  <div>Chic Flat </div></div>
+</div>
 
-      <h1> Our Latest Products</h1>
-      <div id='cardData'>
-      {ans}
-      </div>
-      
+
         </>
     )
 }

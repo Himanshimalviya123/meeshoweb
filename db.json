@@ -151,6 +151,33 @@
       "Net Quantity (N)": "2 Necklaces (For J-Set)",
       "Country of Origin": "India",
       "price":261
+},
+{
+     "id": 7,
+      "Name": "Chooda set",
+      "image": "https://images.meesho.com/images/products/462473401/j1vcb_512.webp",
+      "BaseMetal": "plastic",
+      "Plating": "gold plated",
+      "Stonetype": "Cubic Zirconia/American Diamond",
+      "Sizing": "Adjustable",
+      "Type": "chooda set",
+      "Net Quantity (N)": "1",
+      "Country of Origin": "India",
+      "price":266
+},
+{
+     "id": 8,
+      "Name": "Adjustable Couple Rings | Pink Diamond Women Rings | Gifts For Couples | Rings For Men | Proposal Rings",
+      "image": "https://images.meesho.com/images/products/318061433/czps7_512.webp",
+      "BaseMetal": "Sterling Silver",
+      "Plating": "silver plated",
+      "Stonetype": "Cubic Zirconia/American Diamond",
+      "Sizing": "Adjustable",
+      "Type": "couble",
+      "Net Quantity (N)": "2",
+      "Country of Origin": "India",
+      "price":115
 }
+
 ]
 }
