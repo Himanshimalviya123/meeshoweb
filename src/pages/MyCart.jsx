@@ -43,9 +43,9 @@ const MyCart =()=>{
            <h1> My Cart Products</h1> 
            <h2 align="center"><FaIndianRupeeSign/>  : {TotAmount}</h2> 
            <hr />
-           <Table striped bordered hover>
-      <thead>
-        <tr>
+           <Table id="tab" >
+      <thead id="table">
+        <tr >
           <th>#</th>
           <th>Product Name</th>
           <th>Category</th>

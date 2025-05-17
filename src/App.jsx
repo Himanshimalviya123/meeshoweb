@@ -8,10 +8,13 @@ import MyCart from "./pages/MyCart";
 import MenWatches from "./pages/MenWatches";
 import WoMenWatches from "./pages/WoMenWatches";
 
-import Womenwestern from "./pages/KidsWatches";
+
 import KidsWatches from "./pages/KidsWatches";
-import Home$kitchen from "./pages/home$kitchen";
+
 import Jewellery from "./pages/jewellery";
+import Womenethntic from "./pages/Womenethentic";
+
+
 
 
 
@@ -28,8 +31,10 @@ const App=()=>{
           <Route path="womenwatches" element={<WoMenWatches/>}/>
           <Route path="kidswatches" element={<KidsWatches/>}/>
           <Route path="jewellery" element={<Jewellery/>}/>
-          <Route path="home $ kitchen" element={<Home$kitchen/>}/>
-          <Route path="womenwestern" element={<Womenwestern/>}/>
+          <Route path="womenethnic" element={<Womenethntic/>}/>
+         
+          
+          
           
         </Route>
       </Routes>

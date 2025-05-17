@@ -179,5 +179,142 @@
       "price":115
 }
 
+],
+"dresses":[
+  {
+    "id":1,
+    "Name": "MIRAL satarangi lace border traditional georgette saree",
+
+"Saree Fabric" : "Chinon",
+
+"Blouse" : "Separate Blouse Piece",
+
+"Blouse Fabric" : "Bangalori Silk",
+
+"Pattern" : "Dyed/ Washed",
+
+"Blouse Pattern": "Same as Border",
+
+"Net Quantity (N)" : "Single",
+
+
+"Sizes" :  
+
+"Free Size (Saree Length Size : 5.5 m, Blouse Length Size: 0.8 m)",
+
+ 
+
+"Country of Origin" : "India",
+"image":"https://images.meesho.com/images/products/532248408/qv3ir_512.webp"
+  },
+  {
+  "id":2,
+  "Name" : "Beautiful Georgette Saree Heavy Silver Embroidery Work With Full Silver Stone Work Beautiful Saree (Green Colour)",
+
+"Saree Fabric" : "Georgette",
+
+"Blouse" : "Running Blouse",
+
+"Blouse Fabric" : "Georgette",
+
+"Pattern" : "Embroidered",
+
+"Blouse Pattern" : "Embroidered",
+
+"Net Quantity (N)" : "Single",
+
+"Sizes" :  
+
+"Free Size (Saree Length Size : 5.5 m, Blouse Length Size: 0.8 m)",
+
+ 
+
+"Country of Origin" : "India",
+"price":589,
+"image":"https://images.meesho.com/images/products/447448372/xyeib_512.webp"
+  },
+  {
+    "id":3,
+    "image":"https://images.meesho.com/images/products/402607739/k1qb3_512.webp",
+    "Name" : "FABRIC BY KNITTING SLEEVELESS BOX PATTERN CASUAL FORMAL PARTY WEAR WOMEN WEAR TOP T SHIRT WEDDING GIRLS",
+
+"Fabric" : "Georgette",
+
+"Sleeve Length" : "Short Sleeves",
+
+"Pattern" : "Solid",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" :  
+
+"S (Bust Siz : 34 in, Length Size: 27 in)",
+
+"M (Bust Size" : "36 in)",
+
+"L (Bust Size" : "38 in)",
+
+"XL (Bust Size": "40 in, Length Size: 27 in)",
+
+ 
+"price":202,
+
+"Country of Origin" : "India"
+  },
+  {
+    "id":4,
+    "image":"https://images.meesho.com/images/products/485049722/uvrmh_512.webp",
+    "Name" : "Top | White Cotton & Bell Sleeves Top For Woman's and Girls | Round Neck Top For Women| White Top | Woman's Plain top | Casual Top | Summer Wear top | Long Sleeve White Top | Bell Sleeves Top | White colour top for women party wear |",
+
+"Fabric" : "Cotton Blend",
+
+"Sleeve Length" : "Three-Quarter Sleeves",
+
+"Pattern" : "Embroidered",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" :  
+
+"S (Bust Size : 34 in, Length Size: 25 in)",
+
+"M (Bust Size" : "36 in, Length Size: 26 in)",
+
+"L (Bust Size" : "38 in, Length Size: 26 in)",
+
+"XL (Bust Size" : "40 in, Length Size: 27 in)",
+
+"XXL (Bust Size": "42 in, Length Size: 27 in)",
+"Country of Origin" : "India",
+
+"price": 174
+  },
+  {
+    "id":5,
+    "image":"https://images.meesho.com/images/products/162104301/vkw2i_512.webp",
+    "Name" : "Latest Cat Print Jumpsuit For Women And Girls",
+
+"Fabric" : "Cotton Blend",
+
+"Sleeve Length" : "Short Sleeves",
+
+"Pattern" : "Printed",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" :  
+
+"S (Bust Size : 16 in, Length Size: 48 in, Waist Size: 30 in)",
+
+"M (Bust Size" : "17 in, Length Size: 48 in, Waist Size: 32 in)",
+
+"L (Bust Size" : "18 in, Length Size: 48 in, Waist Size: 34 in)",
+
+ 
+
+
+"Country of Origin" : "India",
+"price":286
+  }
 ]
 }

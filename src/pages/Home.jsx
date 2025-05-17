@@ -112,7 +112,22 @@ const Home=()=>{
 
     return(
         <>
-
+        {/* <----------navigation here------> */}
+<div id="nav1">
+   <ul>
+      <li>Women Ethntic</li>
+      <li>Women Western </li>
+      <li>Men </li>
+      <li>Kids</li>
+      <li>Home & Kitchen</li>
+      <li>Beauty & Health</li>
+      <li>jewellery</li>
+      <li>Bags & Footwear</li>
+      <li>Electronic</li>
+      
+      
+   </ul>
+</div>
             
 
 
