@@ -18,12 +18,18 @@ const Topmenu=()=>{
           <Nav className="me-auto">
             <Nav.Link as={Link} to="home">home</Nav.Link>
 
-            <Nav.Link as={Link} to="menwatches">Men Watches</Nav.Link>
-            <Nav.Link as={Link} to="womenwatches">Women Watches</Nav.Link>
-            <Nav.Link as={Link} to="kidswatches">kidswatches</Nav.Link>
-            <Nav.Link as={Link} to="jewellery">jewellery</Nav.Link>
-            <Nav.Link as={Link} to="Womenethnic">Women Ethnic</Nav.Link>
+            {/* <Nav.Link as={Link} to="menwatches">Men Watches</Nav.Link> */}
+            {/* <Nav.Link as={Link} to="womenwatches">Women Watches</Nav.Link> */}
            
+            <Nav.Link as={Link} to="Womenethnic">Women Ethnic</Nav.Link>
+             <Nav.Link as={Link} to="Womenwestern">women western</Nav.Link>
+            <Nav.Link as={Link} to="Home & kitchen">Home & kitchen </Nav.Link>
+            <Nav.Link as={Link} to="Beauty & health">Beauty & health </Nav.Link>
+             <Nav.Link as={Link} to="jewellery">jewellery</Nav.Link>
+            <Nav.Link as={Link} to="Bags & Footwear ">Bags & Footwear </Nav.Link>
+            <Nav.Link as={Link} to="Electronic">Electronic  </Nav.Link>
+            <Nav.Link as={Link} to="watches">watches</Nav.Link>
+
              
 
             <Nav.Link as={Link} to="mycart">Cart</Nav.Link>
@@ -37,7 +43,8 @@ const Topmenu=()=>{
 
       </Container>
     </Navbar>
-   
+               {/* <Nav.Link as={Link} to="kidswatches">kidswatches</Nav.Link> */}
+
         </>
     )
 }

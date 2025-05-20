@@ -7,13 +7,13 @@ import Card from 'react-bootstrap/Card';
 import { addToCart } from '../cartslice';
 import { useDispatch } from 'react-redux';
 
-const KidsWatches=()=>{
+const Electronic=()=>{
  const [mydata, setMydata]= useState([]);
  const dispatch = useDispatch();
 
  const loadData=async()=>{
     
-    const response = await axios.get("http://localhost:3000/products/?category=kids");
+    const response = await axios.get("http://localhost:3000/Electronic");
     console.log(response.data);
     setMydata(response.data);
  }
@@ -30,10 +30,12 @@ const KidsWatches=()=>{
       <Card.Body>
         <Card.Title> {key.name} </Card.Title>
         <Card.Text>
-         Description :{key.description}
+        Charging Type :{key.ChargingType}<br/>
+        Color :{key.Color}<br/>
+       
          Price : {key.price}
         </Card.Text>
-        <Button variant="primary" onClick={()=>{dispatch(addToCart({id:key.id, name:key.name, description:key.description, category:key.category,  image:key.image,qnty:1,  price:key.price}))}}>Add to Cart</Button>
+        <Button variant="primary" onClick={()=>{dispatch(addToCart({id:key.id, name:key.name, ChargingType:key.ChargingType, Color:key.Color,  image:key.image,qnty:1,  price:key.price}))}}>Add to Cart</Button>
       </Card.Body>
     </Card>
         
@@ -61,4 +63,4 @@ const KidsWatches=()=>{
     )
 }
 
-export default KidsWatches;
+export default Electronic;

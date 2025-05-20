@@ -41,7 +41,7 @@ import myimg29 from "../images/d4.webp";
 
 
 import { useState, useEffect } from 'react';
-import backendUrl from '../config/backendUrl';
+
 import axios from 'axios';
 
 import Button from 'react-bootstrap/Button';
@@ -99,6 +99,30 @@ const Home=()=>{
         <Button variant="primary" onClick={()=>{dispatch(addToCart({id:key.id, name:key.name, BaseMetal:key.BaseMetal,plating:key.plating, stonetype:key.stonetype, image:key.image,qnty:1,  price:key.price}))}}>Add to Cart</Button>
       </Card.Body>
     </Card>
+    <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src={key.image}/>
+      <Card.Body>
+        <Card.Title> {key.name} </Card.Title>
+        <Card.Text>
+         Description :{key.description}
+         Price : {key.price}
+        </Card.Text>
+        <Button variant="primary" onClick={()=>{dispatch(addToCart({id:key.id, name:key.name, description:key.description, category:key.category,  image:key.image,qnty:1,  price:key.price}))}}>Add to Cart</Button>
+      </Card.Body>
+    </Card>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src={key.image} />
+      <Card.Body>
+        <Card.Title> {key.name} </Card.Title>
+        <Card.Text>
+        Charging Type :{key.ChargingType}
+        Color :{key.Color}
+       
+         Price : {key.price}
+        </Card.Text>
+        <Button variant="primary" onClick={()=>{dispatch(addToCart({id:key.id, name:key.name, ChargingType:key.ChargingType, Color:key.Color,  image:key.image,qnty:1,  price:key.price}))}}>Add to Cart</Button>
+      </Card.Body>
+    </Card>
         
         </>
     )
@@ -112,22 +136,7 @@ const Home=()=>{
 
     return(
         <>
-        {/* <----------navigation here------> */}
-<div id="nav1">
-   <ul>
-      <li>Women Ethntic</li>
-      <li>Women Western </li>
-      <li>Men </li>
-      <li>Kids</li>
-      <li>Home & Kitchen</li>
-      <li>Beauty & Health</li>
-      <li>jewellery</li>
-      <li>Bags & Footwear</li>
-      <li>Electronic</li>
-      
-      
-   </ul>
-</div>
+        
             
 
 

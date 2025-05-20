@@ -1,46 +1,28 @@
 import { useState, useEffect } from 'react';
-import BackendURL from "../config/backendUrl";
 import axios from 'axios';
+
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
+
 import { addToCart } from '../cartslice';
 import { useDispatch } from 'react-redux';
-const Search=()=>{
+
+const Watches=()=>{
  const [mydata, setMydata]= useState([]);
  const dispatch = useDispatch();
- const [product, setProduct] = useState("");
-
 
  const loadData=async()=>{
-    const response = await axios.get(BackendURL);
+    
+    const response = await axios.get("http://localhost:3000/products");
     console.log(response.data);
     setMydata(response.data);
  }
+
  useEffect(()=>{
     loadData();
  }, []);
 
-
-const handleInput=(e)=>{
-      let value= e.target.value;
-      setProduct(value);
-}
-
-
-
-
-
-
-
  const ans=mydata.map((key)=>{
-     let myval= product.toLocaleLowerCase();
-     let mystr= key.name.toLocaleLowerCase();
-   let status= mystr.includes(myval);
-   
-   if (status)
-   {
-
-
     return(
         <>
      <Card style={{ width: '18rem' }}>
@@ -53,27 +35,30 @@ const handleInput=(e)=>{
         </Card.Text>
         <Button variant="primary" onClick={()=>{dispatch(addToCart({id:key.id, name:key.name, description:key.description, category:key.category,  image:key.image,qnty:1,  price:key.price}))}}>Add to Cart</Button>
       </Card.Body>
-    </Card>        
+    </Card>
+        
         </>
     )
-   }  
  })
 
-    return(
-        <> 
-      <h1> Our Latest Products</h1>
-        
-        <center>
 
-       
-        Enter Product Name : <input type="text" value={product}
-        onChange={handleInput} />
-       </center>
-       <br /> <br /> <br />
+
+
+
+
+
+    return(
+        <>
+
+           
+
+      <h1> Our Latest Watches for Kids</h1>
       <div id='cardData'>
       {ans}
-      </div>     
+      </div>
+      
         </>
     )
 }
-export default Search;
+
+export default Watches;

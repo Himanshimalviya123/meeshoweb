@@ -248,32 +248,7 @@ h1{
    background-color: plum;
    border: 2px solid black;
    }
-   /* navigation css  here */
-   #nav1{
-    width: 100%;
-border-bottom: 1px solid #ccc;
-font-weight: 500;
-height: 50px;
-/* background-color: blueviolet; */
-   }
-   #nav1 ul{
-    padding: 0;
-list-style: none;
-    display: flex;
-    justify-content: space-between;
-    padding: 0px 10px;
-    height: 100%;
-align-items: center;
-
-   }
-   #nav1 ul li{
-    height:100%;
-    margin: 0;
-    display: flex;
-    align-items: center;
-border-bottom:5px solid  transparent;
-   }
-   #nav1 ul li:hover{
-    border-color: 5px solid  var(--hoverTextColor);
-    border-bottom: ;
-   }
+ .me-auto{
+    font-weight: 500;
+    gap: 25px;
+ }

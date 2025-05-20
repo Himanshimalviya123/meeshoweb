@@ -316,5 +316,99 @@
 "Country of Origin" : "India",
 "price":286
   }
+],
+"Electronic":[
+  {
+    "id":1,
+    "Name" : "Z2 ENC Neckband 12 hours playtime bluetooth wireless headphones earphone bluetooth headset",
+
+ 
+
+"Battery Charge Time" :" 1 Hour",
+
+"BIS/ISI Certification Number" : 0,
+
+"Bluetooth Range" : "10m",
+
+"Bluetooth Version" : 5.2,
+
+"ChargingType" : "Type C",
+
+"Color" : "Blue",
+
+"Compatibility" : "All Smartphones",
+
+"Frequency" : "95 Hz",
+
+"Material" : "ABS Plastic",
+
+"Mic" : "Yes",
+
+"Model Name" : "Neckband",
+
+"Net Quantity (N)": 1,
+
+"Noise Cancelling" : "Yes",
+
+"Play Time" : "12 Hours",
+
+"Type" : "In The Ear",
+
+"Warranty Period" : "1 Month",
+
+"Warranty Type" :" Carry In Are You Looking for LOW LATENCY GAMING : Neckband with the latest Bluetooth 5.2 Gaming Chipset delivers ultra low latency transmission thereby enhancing your game play experience. Now hear each gun shot in real time and identify enemy positions by hearing each footstep clearly. dedicated gaming mode. This technology helps to minimize background in real time to your voice is clearly audible to the person on the other side thereby enhancing your calling experience by providing a call. True Bass Technology: These wireless Bluetooth headphones have been tuned to deliver deep thumping bass. BATTERY LIFE: Neckband Game Headset offers a playtime of 5 Hours on a single charge and additional 12 Hours of playtime with the charging case making a total playtime of 15 Hours. Battery Capacity: Neckband - 40 mAh Each, Charging Case - 350 mAh. Quick Sync Technology: These Bluetooth Earphones automatically connect to the last synced device each time they are removed from the charging case. You can use these Bluetooth Neckband in Mono as well as Stereo Mode.",
+"country of Origin" : "India",
+"image":"https://images.meesho.com/images/products/469526205/joyn4_512.webp",
+"price":405
+
+
+  },
+  {
+    "id":2,
+    "Name" : "Neckband True Wireless Bluetooth Earphones",
+
+ 
+
+"Battery Charge Time" : "1 Hour",
+
+"BIS/ISI Certification Number": 0,
+
+"Bluetooth Range" : "10m",
+
+"Bluetooth Version" : 5.0,
+
+"Charging Type" : "Type C",
+
+"Color" : "White",
+
+"Compatibility" : "All Smartphones",
+
+"Frequency" : "10 Hz",
+
+"Material" : "ABS Plastic",
+
+"Mic" : "Yes",
+
+"Model Name" : "Neckband_Bt-Max",
+
+"Net Quantity (N)" : 1,
+
+"Noise Cancelling" : "Yes",
+
+"Play Time" : "8 Hours",
+
+"Type" : "In The Ear",
+
+"Warranty Period" : "1 Month",
+
+"Warranty Type" : "Carry In BLUETOOTH +FREE Bt Max 3IN 1 CABEL Latest Bluetooth Wireless Stylish Neckband With Deep Bass N18 Bluetooth Headset (Black, In the Ear)",
+
+ 
+
+"Country of Origin" : "China",
+"image":"https://images.meesho.com/images/products/461463502/s5zqv_400.webp",
+"price":385
+  }
+ 
 ]
 }
