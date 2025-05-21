@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react';
-import BackendURL from "../config/backendUrl";
+// import BackendURL from "../config/backendUrl";
 import axios from 'axios';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import { addToCart } from '../cartslice';
+import { addToCart } from '../cartSlice';
 import { useDispatch } from 'react-redux';
 const Search=()=>{
  const [mydata, setMydata]= useState([]);
@@ -12,7 +12,7 @@ const Search=()=>{
 
 
  const loadData=async()=>{
-    const response = await axios.get(BackendURL);
+    const response = await axios.get("http://localhost:3000/products");
     console.log(response.data);
     setMydata(response.data);
  }

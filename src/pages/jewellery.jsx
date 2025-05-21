@@ -5,7 +5,7 @@ import axios from 'axios';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 
-import { addToCart } from '../cartslice';
+import { addToCart } from '../cartSlice';
 import { useDispatch } from 'react-redux';
 
 const Jewellery=()=>{

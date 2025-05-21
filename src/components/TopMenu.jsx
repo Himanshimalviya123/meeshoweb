@@ -29,6 +29,8 @@ const Topmenu=()=>{
             <Nav.Link as={Link} to="Bags & Footwear ">Bags & Footwear </Nav.Link>
             <Nav.Link as={Link} to="Electronic">Electronic  </Nav.Link>
             <Nav.Link as={Link} to="watches">watches</Nav.Link>
+            <Nav.Link as={Link} to="search">Search</Nav.Link>
+            
 
              
 

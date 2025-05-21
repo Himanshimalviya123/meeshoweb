@@ -10,7 +10,7 @@ const cartSlice = createSlice({
         const mydata= state.cart.filter(key=>key.id==actions.payload.id);
         if (mydata.length>=1)
         {
-            alert("This Product Aleready Added!");
+            alert("This Product Aleready Added!");n
         }
         else 
         {
