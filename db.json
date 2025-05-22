@@ -75,6 +75,1118 @@
   ],
   "jewellery": [
     {
+      "id": 10,
+      "Name": "Premium Quality Trending Design Choker Jewellery Set For Women & Girls",
+      "image": "https://images.meesho.com/images/products/314436847/e3tw3_512.webp",
+      "BaseMetal": "Brass & Copper",
+      "Plating": "Gold Plated",
+      "Stonetype": "Cubic Zirconia/American Diamond",
+      "Sizing": "Adjustable",
+      "Type": "Choker and Earrings",
+      "Net Quantity (N)": 1,
+      "Country of Origin": "India",
+      "price": 1380
+    },
+    {
+      "id": 11,
+      "Name": "Sterling Rhodium Plated Jewellery Set With White Austrian Diamond",
+      "image": "https://images.meesho.com/images/products/87877510/qsyih_512.webp",
+      "BaseMetal": "Alloy",
+      "Plating": "Silver Plated",
+      "Stonetype": "Cubic Zirconia/American Diamond",
+      "Sizing": "Adjustable",
+      "Type": "Necklace Earrings Maangtika",
+      "Net Quantity (N)": 1,
+      "Country of Origin": "India",
+      "price": 1380
+    },
+    {
+      "id": 12,
+      "Name": " JEWELLERY SET",
+      "image": "https://images.meesho.com/images/products/404297478/fka2g_512.webp",
+      "BaseMetal": "Alloy",
+      "Plating": "Gold Plated",
+      "Stonetype": "no stone",
+      "Sizing": "Adjustable",
+      "Type": " Necklace Earrings Maangtika",
+      "Net Quantity (N)": 1,
+      "Country of Origin": "India",
+      "price": 1380
+    },
+    {
+      "id": 13,
+      "Name": " JEWELLERY SET",
+      "image": "https://images.meesho.com/images/products/404297477/rqcyb_512.webp",
+      "BaseMetal": "Alloy",
+      "Plating": "Gold Plated",
+      "Stonetype": "No Stone",
+      "Sizing": "Adjustable",
+      "Type": "Necklace and Earrings",
+      "Net Quantity (N)": "2 Necklaces (For J-Set)",
+      "Country of Origin": "India",
+      "price":261
+},
+{
+     "id": 14,
+      "Name": "  6 Line jalar set",
+      "image": "https://images.meesho.com/images/products/398947922/vsfwr_512.webp",
+      "BaseMetal": "Alloy",
+      "Plating": "Gold Plated",
+      "Stonetype": "pearls",
+      "Sizing": "Adjustable",
+      "Type": " Choker and Earrings",
+      "Net Quantity (N)": "2 Necklaces (For J-Set)",
+      "Country of Origin": "India",
+      "price":261
+},
+{
+     "id": 15,
+      "Name": " Earing and mangtika",
+      "image": "https://images.meesho.com/images/products/533931120/ttdph_512.webp",
+      "BaseMetal": "Alloy",
+      "Plating": "Gold Plated",
+      "Stonetype": "kundan",
+      "Sizing": "Adjustable",
+      "Type": " Choker and Earrings",
+      "Net Quantity (N)": "2 Necklaces (For J-Set)",
+      "Country of Origin": "India",
+      "price":261
+},
+{
+     "id": 16,
+      "Name": "Chooda set",
+      "image": "https://images.meesho.com/images/products/462473401/j1vcb_512.webp",
+      "BaseMetal": "plastic",
+      "Plating": "gold plated",
+      "Stonetype": "Cubic Zirconia/American Diamond",
+      "Sizing": "Adjustable",
+      "Type": "chooda set",
+      "Net Quantity (N)": "1",
+      "Country of Origin": "India",
+      "price":266
+},
+{
+     "id": 17,
+      "Name": "Adjustable Couple Rings | Pink Diamond Women Rings | Gifts For Couples | Rings For Men | Proposal Rings",
+      "image": "https://images.meesho.com/images/products/318061433/czps7_512.webp",
+      "BaseMetal": "Sterling Silver",
+      "Plating": "silver plated",
+      "Stonetype": "Cubic Zirconia/American Diamond",
+      "Sizing": "Adjustable",
+      "Type": "couble",
+      "Net Quantity (N)": "2",
+      "Country of Origin": "India",
+      "price":115
+}
+
+],
+"dresses":[
+  {
+    "id":18,
+    "Name": "MIRAL satarangi lace border traditional georgette saree",
+
+"Saree Fabric" : "Chinon",
+
+"Blouse" : "Separate Blouse Piece",
+
+"Blouse Fabric" : "Bangalori Silk",
+
+"Pattern" : "Dyed/ Washed",
+
+"Blouse Pattern": "Same as Border",
+
+"Net Quantity (N)" : "Single",
+
+
+"Sizes" :  
+
+"Free Size (Saree Length Size : 5.5 m, Blouse Length Size: 0.8 m)",
+
+ 
+
+"Country of Origin" : "India",
+"image":"https://images.meesho.com/images/products/532248408/qv3ir_512.webp"
+  },
+  
+  {
+  "id":19,
+  "Name" : "Beautiful Georgette Saree Heavy Silver Embroidery Work With Full Silver Stone Work Beautiful Saree (Green Colour)",
+
+"Saree Fabric" : "Georgette",
+
+"Blouse" : "Running Blouse",
+
+"Blouse Fabric" : "Georgette",
+
+"Pattern" : "Embroidered",
+
+"Blouse Pattern" : "Embroidered",
+
+"Net Quantity (N)" : "Single",
+
+"Sizes" :  
+
+"Free Size (Saree Length Size : 5.5 m, Blouse Length Size: 0.8 m)",
+
+ 
+
+"Country of Origin" : "India",
+"price":589,
+"image":"https://images.meesho.com/images/products/447448372/xyeib_512.webp"
+  },
+  {
+    "id":20,
+    "image":"https://images.meesho.com/images/products/402607739/k1qb3_512.webp",
+    "Name" : "FABRIC BY KNITTING SLEEVELESS BOX PATTERN CASUAL FORMAL PARTY WEAR WOMEN WEAR TOP T SHIRT WEDDING GIRLS",
+
+"Fabric" : "Georgette",
+
+"Sleeve Length" : "Short Sleeves",
+
+"Pattern" : "Solid",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" :  
+
+"S (Bust Siz : 34 in, Length Size: 27 in)",
+
+"M (Bust Size" : "36 in)",
+
+"L (Bust Size" : "38 in)",
+
+"XL (Bust Size": "40 in, Length Size: 27 in)",
+
+ 
+"price":202,
+
+"Country of Origin" : "India"
+  },
+  {
+    "id":21,
+    "image":"https://images.meesho.com/images/products/485049722/uvrmh_512.webp",
+    "Name" : "Top | White Cotton & Bell Sleeves Top For Woman's and Girls | Round Neck Top For Women| White Top | Woman's Plain top | Casual Top | Summer Wear top | Long Sleeve White Top | Bell Sleeves Top | White colour top for women party wear |",
+
+"Fabric" : "Cotton Blend",
+
+"Sleeve Length" : "Three-Quarter Sleeves",
+
+"Pattern" : "Embroidered",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" :  
+
+"S (Bust Size : 34 in, Length Size: 25 in)",
+
+"M (Bust Size" : "36 in, Length Size: 26 in)",
+
+"L (Bust Size" : "38 in, Length Size: 26 in)",
+
+"XL (Bust Size" : "40 in, Length Size: 27 in)",
+
+"XXL (Bust Size": "42 in, Length Size: 27 in)",
+"Country of Origin" : "India",
+
+"price": 174
+  },
+  {
+    "id":22,
+    "image":"https://images.meesho.com/images/products/162104301/vkw2i_512.webp",
+    "Name" : "Latest Cat Print Jumpsuit For Women And Girls",
+
+"Fabric" : "Cotton Blend",
+
+"Sleeve Length" : "Short Sleeves",
+
+"Pattern" : "Printed",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" :  
+
+"S (Bust Size : 16 in, Length Size: 48 in, Waist Size: 30 in)",
+
+"M (Bust Size" : "17 in, Length Size: 48 in, Waist Size: 32 in)",
+
+"L (Bust Size" : "18 in, Length Size: 48 in, Waist Size: 34 in)",
+
+ 
+
+
+"Country of Origin" : "India",
+"price":286
+  },
+   {
+    "id":51,
+    "image":"https://images.meesho.com/images/products/158190947/incy0_512.webp",
+    "Name" : "trendy retro women women trouser",
+
+"Fabric" : "Cotton Blend",
+
+"Pattern" : "Solid",
+
+"Net Quantity (N)" : 1,
+
+
+"Sizes" :  "24 (Waist Size : 24 in, Length Size: 36 in, Hip Size: 32 in)",
+
+"26 (Waist Size" : "26 in, Length Size: 38 in, Hip Size: 34 in)",
+
+"28 (Waist Size" : "28 in, Length Size: 38 in, Hip Size: 36 in)",
+
+"30 (Waist Size" : "30 in, Length Size: 38 in, Hip Size: 38 in)",
+
+"32 (Waist Size": "32 in, Length Size: 38 in, Hip Size: 40 in)",
+
+"34 (Waist Size" : "34 in, Length Size: 38 in, Hip Size: 42 in)",
+
+"36 (Waist Size": "36 in, Length Size: 38 in, Hip Size: 44 in)",
+
+"XS (Waist Size" : "22 in, Length Size: 36 in, Hip Size: 30 in)",
+
+"S (Waist Size" : "28 in, Length Size: 37 in, Hip Size: 36 in)",
+
+"M (Waist Size" : "30 in, Length Size: 37 in, Hip Size: 38 in)",
+
+"L (Waist Size" : "32 in, Length Size: 37 in, Hip Size: 40 in)",
+
+"XL (Waist Size" : "34 in, Length Size: 37 in, Hip Size: 42 in)",
+
+"XXL (Waist Size" : "36 in, Length Size: 37 in, Hip Size: 44 in)",
+"Country of Origin" : "India",
+"price":114
+  },
+  {
+    "id":52,
+    "image":"https://images.meesho.com/images/products/302925060/5utfv_512.webp",
+    "Name" : "Dream Beauty Fashion Women's Solid Bell Bottoms Black Trousers & Pants",
+
+"Fabric" : "Polyester",
+
+"Pattern" : "Solid",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" :  "26 (Waist Size : 24 in, Length Size: 39 in, Hip Size: 34 in)",
+
+"28 (Waist Size" : "28 in, Length Size: 38 in, Hip Size: 36 in)",
+
+"30 (Waist Size" : "30 in, Length Size: 38 in, Hip Size: 38 in)",
+
+"32 (Waist Size" : "32 in, Length Size: 38 in, Hip Size: 40 in)",
+
+"34 (Waist Size" : "34 in, Length Size: 38 in, Hip Size: 42 in)",
+
+"36 (Waist Size" : "36 in, Length Size: 38 in, Hip Size: 44 in)",
+"Country of Origin" : "India",
+"price":192
+  }
+
+],
+"Electronic":[
+  {
+    "id":23,
+    "Name" : "Z2 ENC Neckband 12 hours playtime bluetooth wireless headphones earphone bluetooth headset",
+
+ 
+
+"Battery Charge Time" :" 1 Hour",
+
+"BIS/ISI Certification Number" : 0,
+
+"Bluetooth Range" : "10m",
+
+"Bluetooth Version" : 5.2,
+
+"ChargingType" : "Type C",
+
+"Color" : "Blue",
+
+"Compatibility" : "All Smartphones",
+
+"Frequency" : "95 Hz",
+
+"Material" : "ABS Plastic",
+
+"Mic" : "Yes",
+
+"Model Name" : "Neckband",
+
+"Net Quantity (N)": 1,
+
+"Noise Cancelling" : "Yes",
+
+"Play Time" : "12 Hours",
+
+"Type" : "In The Ear",
+
+"Warranty Period" : "1 Month",
+
+"Warranty Type" :" Carry In Are You Looking for LOW LATENCY GAMING : Neckband with the latest Bluetooth 5.2 Gaming Chipset delivers ultra low latency transmission thereby enhancing your game play experience. Now hear each gun shot in real time and identify enemy positions by hearing each footstep clearly. dedicated gaming mode. This technology helps to minimize background in real time to your voice is clearly audible to the person on the other side thereby enhancing your calling experience by providing a call. True Bass Technology: These wireless Bluetooth headphones have been tuned to deliver deep thumping bass. BATTERY LIFE: Neckband Game Headset offers a playtime of 5 Hours on a single charge and additional 12 Hours of playtime with the charging case making a total playtime of 15 Hours. Battery Capacity: Neckband - 40 mAh Each, Charging Case - 350 mAh. Quick Sync Technology: These Bluetooth Earphones automatically connect to the last synced device each time they are removed from the charging case. You can use these Bluetooth Neckband in Mono as well as Stereo Mode.",
+"country of Origin" : "India",
+"image":"https://images.meesho.com/images/products/469526205/joyn4_512.webp",
+"price":405
+
+
+  },
+  {
+    "id":24,
+    "Name" : "Neckband True Wireless Bluetooth Earphones",
+
+ 
+
+"Battery Charge Time" : "1 Hour",
+
+"BIS/ISI Certification Number": 0,
+
+"Bluetooth Range" : "10m",
+
+"Bluetooth Version" : 5.0,
+
+"Charging Type" : "Type C",
+
+"Color" : "White",
+
+"Compatibility" : "All Smartphones",
+
+"Frequency" : "10 Hz",
+
+"Material" : "ABS Plastic",
+
+"Mic" : "Yes",
+
+"Model Name" : "Neckband_Bt-Max",
+
+"Net Quantity (N)" : 1,
+
+"Noise Cancelling" : "Yes",
+
+"Play Time" : "8 Hours",
+
+"Type" : "In The Ear",
+
+"Warranty Period" : "1 Month",
+
+"Warranty Type" : "Carry In BLUETOOTH +FREE Bt Max 3IN 1 CABEL Latest Bluetooth Wireless Stylish Neckband With Deep Bass N18 Bluetooth Headset (Black, In the Ear)",
+
+ 
+
+"Country of Origin" : "China",
+"image":"https://images.meesho.com/images/products/461463502/s5zqv_400.webp",
+"price":385
+  },
+  {
+    "id":25,
+    "Name" : "AESTMO Back Case Cover for Oppo Reno 8T 5G Back Cover | Cute Fun Cartoon 3D Ball | Coffee Silicone Case | Full Body Protection | Camera Protection Back Cover for Oppo Reno 8T 5G (Black)",
+
+"Brand" : "AESTMO",
+
+"Color" : "Black",
+
+"Compatible Models" : "OPPO Reno 8T 5G",
+
+"Material" : "Silicon",
+
+"Net Quantity (N)" : 1,
+
+"Theme" : "Animals/Birds/Nature",
+
+"Type" : "Designer",
+
+"Adorable 3D Design" : "The cute cartoon coffee cup design in 3D adds a unique and playful element to your phone, making it stand out with a fun and stylish look.",
+
+ 
+
+"Premium Liquid Silicone" : "Made from high-quality liquid silicone, this case provides a soft, comfortable grip and excellent protection against drops, scratches, and everyday use.",
+
+"Country of Origin ": "India",
+"image":"https://images.meesho.com/images/products/542786931/blx4z_512.webp",
+"price":241
+},
+{
+  "id":26,
+  "Name" : "Oppo F29 5G | Plating Bling Gradient Glitter Clear Soft TPU Silicone Silicon Back Cover",
+
+"Brand" : "Others",
+
+"Color" : "Blue",
+
+"Compatible Models" : "Oppo F29 5G",
+
+"Material" : "Silicone",
+
+"Net Quantity (N)" : 1,
+
+"Theme" : "No Theme",
+
+"Type" : "Plain",
+"Country of Origin" : "India",
+"image":"https://images.meesho.com/images/products/537865715/gteqr_512.webp",
+"price":229
+},
+{
+  "id":27,
+  "Name" : "Fancy cool product",
+  "image":"https://images.meesho.com/images/products/537292340/ripab_512.webp",
+"Battery Charge Time" : "1 Hour",
+
+"Bluetooth Range" : "10m",
+
+"Charging Type" : "Type C",
+
+"Color" : "Green",
+
+"Compatibility" : "All Smartphones",
+
+"Mic" :"Yes",
+
+"Model Name" : "WIRELESS BUDS",
+
+"Net Quantity (N)" : 1,
+
+"Noise Cancelling" : "Yes",
+
+"Play Time" : "10 Hours",
+
+"Type" : "TWS",
+
+"Warranty Period" : "1 Month",
+
+"Warranty Type" : "Carry In",
+
+"Country of Origin" : "India",
+"price":285
+},
+{
+"id":28,
+"Name" :"Bluetooth Speaker 4D Mini Electroplating Round Steel Speaker",
+"image":"https://images.meesho.com/images/products/530891793/4mgmx_512.webp",
+ "Color" : "Blue",
+
+"Configuration" : "Stereo",
+
+"Material" : "ABS Plastic",
+
+"Model Name" :"000",
+
+"Net Quantity (N)" : 1,
+
+"Product Type" : "Mobile/Tablet Speaker",
+
+"Type" : "TWS",
+
+"Country of Origin" : "India",
+"price":251
+
+},
+{
+  "id":29,
+  "Name" : "Wireless Bluetooth Speakers A005 Stereo Audio deep bass Portable Rechargeable Splash/Waterproof Flashing LED Light Best Wireless/Gaming/Outdoor/Home Audio Bluetooth Speaker/Speakers with tf/FM Slot /005",
+"image":"https://images.meesho.com/images/products/407977562/cciv2_512.webp",
+"Aux" : "No",
+
+"BIS/ISI Certification Number" : 0,
+
+"Bluetooth Range" : "10 Mtr",
+
+"Charging Type" : "Micro USB",
+
+"Color" : "Multi",
+
+"Compatibility" : "All Mobile Devices",
+
+"Control Button" : "Yes",
+
+"Mic" : "Yes",
+
+"Model Name" : "005",
+
+"Net Quantity (N)" : 1,
+
+"Noise Cancelling" : "No",
+
+"Product Type" : "Mobile/Tablet Speaker",
+
+"Warranty Period" : "1 Year",
+
+"Warranty Type" : "Carry In",
+
+"Water Resistant" :"No",
+
+"Country of Origin" :"China",
+"price":410
+
+}
+ 
+],
+"home":[
+  {
+    "id":30,
+    "Name" : "Self Draining Tableware Utensil Storage Box- Spoon,Knife,Fork,Chopstick,Steel Cutlery Holder/Organizer Stand For Kitchen,Dining Table Steel (C3-3Pcs Containers),Stainless Steel,Silver",
+
+"Material": "Stainless Steel",
+
+"Net Quantity (N)" : "Pack of 1",
+
+"Length": "21.5 cm",
+
+"Breadth" : "12 cm",
+
+"Height" : "10 cm",
+
+"⭐ Design of cut-out circles": "Holes are made to ensure that water flows through the base when you use this spoon holder as a drying rack.",
+
+"⭐ Design" :  "Organize your kitchen and dining area with this attractive classy Spoon Stand / Cutlery Holder. Holes are provided on the stand to make sure that water flows out of it easily.",
+
+"⭐ Material" :  "Strong sturdy; Premium quality stainless steel making the stand highly durable, long lasting & rust free Presented .",
+
+"⭐ Stainless Steel": "spoon, knife chammach cutlery holder.It has Unique Cutlery Stainless Steel Stand. High-Grade Mirror Finish",
+
+"⭐ Beautiful looking": "cutlery holder which helps to keep spoons, forks, knives at one place. Also it can be used to keep near basin to keep toothbrush and other toiletries. Also its used on study table.",
+
+"⭐ Multi-Functional":  "May also use as make up holder, craft items storage, pen, pencil holder, desk organiser,brush holder",
+
+"⭐ Thicker gauge for high durability": "Rust proof and hygienic Chrome Finish with Stainless Steel Material highly durable Made From High Quality Stainless Steel.",
+
+
+"⭐ Material Used" : "Stainless Steel Thicker gauge for high durability Rust proof and hygienic Box CONTAIN 3 Pcs of spoon holder with stand Chr",
+
+"Sizes" :  "Free Size",
+
+"Country of Origin" : "India",
+"image":"https://images.meesho.com/images/products/421140476/jup4u_512.webp",
+"price":243
+  },
+  {
+  "id":31,
+  "image":"https://images.meesho.com/images/products/531841657/fd72q_512.webp",
+  "Name" : "VIGNESHGENIX Stainless Steel Plain Top (5-pcs) with Lid |Versality & strong Durability Plain Top |Rust-proof Steel Plain Top With Lid",
+
+"Material" : "Stainless Steel",
+
+"Microwave Safe" : "Yes",
+
+"Product Breadth" : "22 Cm",
+
+"Product Height" : "12 Cm",
+
+"Product Length" : "22 Cm",
+"Net Quantity (N)" : "Pack Of 5",
+"With Lid Design" : "Keeps food covered, warm, and hygienic",
+"Multi-Purpose Use" : "Ideal for boiling milk, cooking, and storing various foods",
+"Durable & Long-Lasting" : "Built to withstand daily kitchen wear and tear",
+"Elegant & Functional" : "Mirror finish and compact design suit any modern kitchen",
+"Country of Origin" : "India",
+"price":636
+
+
+},
+{
+  "id":32,
+  "image":"https://images.meesho.com/images/products/171366426/83aw7_512.webp",
+  "Name" : "Apeiron Stainless Steel Lota Shape 300 ml Ghee / Oil Pot Container pack of 3 Jars & Containers",
+
+"Material" : "Stainless Steel",
+
+"Type" : "Others",
+
+"Features" : "Freezersafe",
+
+"Product Breadth" : "8 Cm",
+
+"Product Height" : "9 Cm",
+
+"Product Length" : "8 Cm",
+
+"Net Quantity (N)": "Pack Of 3",
+"Country of Origin" : "India",
+"price":586
+},
+  {
+    "id":33,
+    "image":"https://images.meesho.com/images/products/471995647/nqiqo_512.webp",
+    "Name" : "16 PCS SILOVERLINE CONTAINER , WITH SPOON,",
+
+"Material" : "Plastic",
+
+"Type" : "Others",
+
+
+"Features" : "Airtight",
+
+"Product Breadth" : "10 Cm",
+
+"Product Height": "10 Cm",
+
+"Product Length" : "10 Cm",
+
+"Net Quantity (N)" : "Pack Of 16",
+
+ 
+
+"Country of Origin" : "India",
+"price":389
+  },
+  {
+    "id":34,
+    "image":"https://images.meesho.com/images/products/428549417/55ce0_512.webp",
+    "Name" : "Heavy Stainless Steel Single Gas Stove",
+    "Material" : "Stainless Steel",
+"Type" : "Gas Stove Stands",
+"Product Breadth" : "30 Cm",
+"Product Height" : "7 Cm",
+"Product Length" : ",31 Cm",
+"Net Quantity (N)" : "Multipack Star India Pariwar provides you best quality single gas stove for compact kitchen. It consumes less space and is easy on pocket. Stainless steel Frame with high efficiency cast irons burners, Sturdy single piece heavy quality stainless steel Frame, Fuel efficient cast irons burners with center flame for even cooking, Ignition System : Manual, Cooktop comes in a stainless steel mirror finish Frame to make your kitchen space look more appealing, Color: Silver, Material: Stainless Steel. It also provides ease of cleaning, thus, ensuring low and easy maintenance. Eco-friendly Blue Flame Powerful Burners - This Cooktop saves 15% of your Gas compared to others. It has lowest %age of carbon Monoxide & carbon dioxide is less than 0.02%, making it an eco-friendly cooktop. Package Content : 1 main unit, 1 cast irons burners ,1 Steel pan support big, 1.5 Meter ISI Gas pipe with 2 clamps , 1 lighter ,4 Rubber Legs.",
+"Country of Origin" : "India",
+"price":609
+  },
+  {
+    "id":35,
+    "image":"https://images.meesho.com/images/products/507854498/eciso_512.webp",
+    "Name" : "Mini Grinder Electric Stainless Steel (pack of 1 )",
+"Product Breadth" : "21 Cm",
+"Product Height" : "10 Cm",
+"Product Length" : "16.5 Cm",
+"Country of Origin" : "India",
+"price":574
+  },
+  {
+    "id":36,
+    "image":"https://images.meesho.com/images/products/527641427/rppcz_512.webp",
+    "Name" : "Mixer",
+"Product Breadth" : "18 Cm",
+"Product Height" : "22 Cm",
+"Product Length" : "18 Cm",
+"1.Motor" : "Equipped with a high-speed motor that delivers efficient performance and durability.",
+
+"2.3 Stainless Steel Jars" : "Comes with 3 jars (1.5L, 1L, and 0.4L) for grinding, mixing, and blending.",
+
+"3.Pulse Function" : "Features a pulse function for added control and precision.",
+
+"4.Overload Protection" : "Automatic shut-off in case of overload for safety and motor protection.",
+
+"5.Ergonomic Design" : "Sleek and compact design for easy handling and storage.",
+"jar Specifications":"This versatile Mixer Grinder is designed to make your cooking experience effortless and efficient. With its powerful motor and 3 stainless steel jars, it can handle a variety of tasks, from grinding spices to mixing batter.",
+
+"1.Liquidizing Jar (1.5L)" : "Ideal for blending juices, milkshakes, and other liquids.",
+
+"2.Dry Grinding Jar (1L)" : "Perfect for grinding spices, coffee beans, and other dry ingredients.",
+
+"3.Chutney Jar (0.4L)": "Great for grinding chutneys, sauces, and other semi-liquid ingredients.",
+"1.Motor1" : "600Watt",
+
+"2.Voltage" : "230V",
+
+"3.Frequency" : "50Hz",
+"Country of Origin": "India",
+"price":1307
+
+
+  },
+  {
+    "id":37,
+    "image":"https://images.meesho.com/images/products/373277683/hsyw7_512.webp",
+    "Name" : "Stainless Steel 2-Tier Kitchen Rack and Organizer Spice Rack and Container Organizer, Utensils Dishes Spices Jar holder rack and cup and glass holder (2 Layer Spice Rack) Sliver",
+
+"Material": "Stainless Steel",
+
+"Product Breadth" : "10 Cm",
+
+"Product Height" : "10 Cm",
+
+"Product Length" : "24 Cm",
+
+"Net Quantity (N)": "Pack Of 1",
+"Country of Origin" :  "India",
+"price":191
+
+  }
+],
+"bags":[
+  {
+    "id":38,
+    "Name" : "30 Liter Waterproof backpack bag School/College/Office & Travels Use",
+
+"Material" : "Fabric",
+
+"No. of Compartments" : 1,
+
+"Pattern" : "Printed",
+
+"Net Quantity (N)" : 1,
+
+"Sizes":  "Free Size (Length Size - 31 cm, Width Size: 20 cm, Height Size: 40 cm)",
+
+ "image":"https://images.meesho.com/images/products/477173781/pjzmc_512.webp",
+
+
+"Country of Origin" : "India",
+"price":380
+  },
+  {
+    "id":39,
+    "Name": "Stylish Printed Backpack - Perfect for School, College, and Travel Adventures for Girls",
+
+"Material" : "Polyester",
+
+"No. of Compartments" : 5,
+
+"Pattern" : "Printed",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" :  "Free Size (Length Size : 18 in, Width Size: 13 in)",
+
+ "image":"https://images.meesho.com/images/products/475785010/3qbzw_512.webp",
+
+"Country of Origin" : "India",
+"price":363
+
+  },
+  {
+    "id":40,
+    "Name" : "Daniel Clark Handbag Beautiful Handbags For Girls and Ladies",
+"image":"https://images.meesho.com/images/products/194885424/hvchs_512.webp",
+"Material" : "PU",
+
+"No. of Compartments" : 1,
+
+"Pattern" : "Solid",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" : "Free Size (Length Size: 29 in, Width Size: 3 in, Height Size: 21 in)",
+
+"Country of Origin" : "India",
+"price":244
+  },
+  {
+    "id":41,
+    "Name" : "New Classic Latest Pattern designed handbag for girls and women |Qiara Collection|Hanbags|",
+"image":"https://images.meesho.com/images/products/392506657/dfjm4_512.webp",
+"Material" : "PU",
+
+"No. of Compartments" : 2,
+
+"Pattern" : "Printed",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" : "Free Size (Length Size: 18 in, Width Size: 12 in, Height Size: 14 in)",
+
+ 
+
+"Country of Origin" : "India",
+"price":206
+  },
+  {
+    "id":42,
+    "Name" : "Darklin Bags for Women, Hobo Bag, Stylish Leather Bag For Women Handbags Female Simple Large High Capacity Shoulder Bag Vintage Handbags Large Bag Big space handbag for women",
+"image":"https://images.meesho.com/images/products/433308186/opd5b_512.webp",
+"Material" : "PU",
+
+"No. of Compartments" : 2,
+
+"Pattern" : "Solid",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" : "Free Size (Length Size: 20 in, Width Size: 15 in, Height Size: 5 in)",
+
+"Country of Origin" : "India",
+"price":321
+  },
+  {
+    "id":43,
+"image":"https://images.meesho.com/images/products/481788744/brs8b_512.webp",
+    "Name" : "65L Strolley Duffel Bag Travel Duffel Luggage Heavy Duty Bag For Men & Women",
+
+"Material" : "Polyester",
+
+"Type" : "Travel",
+
+"Water Resistant" : "Yes",
+
+"Print Or Pattern Type" : "Textured",
+
+"No. Of Compartments" : 4,
+
+
+"Compartment Closure" : "Zip",
+
+"Side Pockets" : 2,
+
+"Strap Type" : "Two Short Handles with Velcro",
+
+"Size" : "Onesize",
+
+"Features" : "Foldable",
+
+"Net Quantity (N)" : 1,
+
+
+"Country of Origin" : "India",
+"price":282
+  }
+],
+"beauty":[
+  {
+    "id":44,
+    "image":"https://images.meesho.com/images/products/475142762/ucrvq_512.webp",
+    "Name" : "Combo of 4in1 Red Edition Liquid Lipstick Pack of 1",
+
+
+"Finish" : "Matte",
+
+"Color" : "Red",
+
+"Type" : "Liquid",
+
+"Net Quantity (N)" : "1,Combo of 4in1 Red Edition Liquid Lipstick Pack of 1",
+"price":102
+
+ 
+  },
+  {
+"id":45,
+"image":"https://images.meesho.com/images/products/475330531/gu0mv_512.webp",
+"Name" : "Red4 Miss Perfect Liquid Lip Cream | Non Transfer Liquid Lipstick | Matte Finish | Long Lasting and Waterproof Liquid Lipstick",
+
+
+"Brand Name" : "RED4",
+
+"Finish" : "Matte",
+
+"Color" : "Peach Pink",
+
+"Type" : "Liquid",
+
+"Net Quantity (N)": 1,
+
+"Add On" : "No Add on",
+"Country of Origin" : "India",
+"price":95
+  },
+  {
+    "id":46,
+    "Name" : "BRIT ACCENT Combo Pack Of 2|Depth Of Ocean-Canyon|Parfum|Long-Lasting|Specially Currated| Eau de Toilette - 100 ml (For Men & Women)",
+"image":"https://images.meesho.com/images/products/407003700/yycd5_512.webp",
+"Type" : "Perfume",
+
+"Brand" : "BRIT ACCENT",
+
+"Flavour" : "Apricot",
+
+"Net Quantity (N)" : 2,
+"Directions" :  "focus on pulse points (wrists, neck, behind ears), spray a light mist from a few inches away, and avoid rubbing",
+"Ingredients" :"Denatured Ethyl Alcohol,Parfum(Fragrances), Aqua(Water), Isopropyl Myristate, Ppg 20 (Methyl Glucose Ether)",
+"Safety Information" :  "KEEP IN A COOL PLACE",
+
+"Country of Origin" : "India",
+"price":169
+
+  },
+  {
+    "id":47,
+    "image":"https://images.meesho.com/images/products/11473676/2vap4_512.webp",
+    "Name" : "Wildplay Chocolate 30ml Spray Perfume I Body Spray I Deo I Scent I For Men Women",
+
+"Wildplay Pocket": "Perfume 35ml Newyork 35ml Party Set of 2",
+
+"Country of Origin" : "India",
+"price":151
+  },
+  {
+    "id":5,
+    "image":"https://images.meesho.com/images/products/233825964/fq7dd_512.webp",
+    "Name" : "TYA 6155",
+
+"Brand" : "Others",
+
+"Color" : "Multicolor",
+
+"Flavour" : "No Flavour",
+
+"Net Quantity (N)" : 1,
+
+"Country of Origin" : "India",
+"price":215
+
+
+  },
+  {
+    "id":48,
+    "image":"https://images.meesho.com/images/products/415287552/ts7fk_512.webp",
+    "Name" : "daily use face makeup kit for women eyeshadow makeup brush lipstick compact mascara eyeliner",
+"Color" : "Combo Of Different Color",
+"Flavour" : "No Flavour",
+"Net Quantity (N)" : 11,
+"Country of Origin" : "India",
+"price":214
+  },
+  {
+    "id":49,
+    "image":"https://images.meesho.com/images/products/422034950/lxcpd_512.webp",
+    "Name" : "Seven Seas Fine Touch Waterproof Total Oil Control Liquid Foundation(Natural,12ML)",
+"Finish" : "Matte",
+"Shade" : "Natural",
+"Type" : "Liquid",
+"Net Quantity (N)" : 1,
+"price":95
+  },
+  {
+    "id":50,
+    "image":"https://images.meesho.com/images/products/278548474/xbc5h_512.webp",
+    "Name" : "Makeup combo of compact powder, 6 in 1 brushes set, blender puff (set of 3 items)",
+"Finish": "Matte",
+"Shade" : "Beige",
+"Type" : "Powder",
+"Net Quantity (N)" : 1,
+"Country of Origin" : "India",
+"price":114
+  }
+],
+"womenwestern":[
+  {
+    "id":51,
+    "image":"https://images.meesho.com/images/products/158190947/incy0_512.webp",
+    "Name" : "trendy retro women women trouser",
+
+"Fabric" : "Cotton Blend",
+
+"Pattern" : "Solid",
+
+"Net Quantity (N)" : 1,
+
+
+"Sizes" :  "24 (Waist Size : 24 in, Length Size: 36 in, Hip Size: 32 in)",
+
+"26 (Waist Size" : "26 in, Length Size: 38 in, Hip Size: 34 in)",
+
+"28 (Waist Size" : "28 in, Length Size: 38 in, Hip Size: 36 in)",
+
+"30 (Waist Size" : "30 in, Length Size: 38 in, Hip Size: 38 in)",
+
+"32 (Waist Size": "32 in, Length Size: 38 in, Hip Size: 40 in)",
+
+"34 (Waist Size" : "34 in, Length Size: 38 in, Hip Size: 42 in)",
+
+"36 (Waist Size": "36 in, Length Size: 38 in, Hip Size: 44 in)",
+
+"XS (Waist Size" : "22 in, Length Size: 36 in, Hip Size: 30 in)",
+
+"S (Waist Size" : "28 in, Length Size: 37 in, Hip Size: 36 in)",
+
+"M (Waist Size" : "30 in, Length Size: 37 in, Hip Size: 38 in)",
+
+"L (Waist Size" : "32 in, Length Size: 37 in, Hip Size: 40 in)",
+
+"XL (Waist Size" : "34 in, Length Size: 37 in, Hip Size: 42 in)",
+
+"XXL (Waist Size" : "36 in, Length Size: 37 in, Hip Size: 44 in)",
+"Country of Origin" : "India",
+"price":114
+  },
+  {
+    "id":52,
+    "image":"https://images.meesho.com/images/products/302925060/5utfv_512.webp",
+    "Name" : "Dream Beauty Fashion Women's Solid Bell Bottoms Black Trousers & Pants",
+
+"Fabric" : "Polyester",
+
+"Pattern" : "Solid",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" :  "26 (Waist Size : 24 in, Length Size: 39 in, Hip Size: 34 in)",
+
+"28 (Waist Size" : "28 in, Length Size: 38 in, Hip Size: 36 in)",
+
+"30 (Waist Size" : "30 in, Length Size: 38 in, Hip Size: 38 in)",
+
+"32 (Waist Size" : "32 in, Length Size: 38 in, Hip Size: 40 in)",
+
+"34 (Waist Size" : "34 in, Length Size: 38 in, Hip Size: 42 in)",
+
+"36 (Waist Size" : "36 in, Length Size: 38 in, Hip Size: 44 in)",
+"Country of Origin" : "India",
+"price":192
+  },
+   {
+    "id":53,
+    "image":"https://images.meesho.com/images/products/402607739/k1qb3_512.webp",
+    "Name" : "FABRIC BY KNITTING SLEEVELESS BOX PATTERN CASUAL FORMAL PARTY WEAR WOMEN WEAR TOP T SHIRT WEDDING GIRLS",
+
+"Fabric" : "Georgette",
+
+"Sleeve Length" : "Short Sleeves",
+
+"Pattern" : "Solid",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" :  
+
+"S (Bust Siz : 34 in, Length Size: 27 in)",
+
+"M (Bust Size" : "36 in)",
+
+"L (Bust Size" : "38 in)",
+
+"XL (Bust Size": "40 in, Length Size: 27 in)",
+
+
+"Country of Origin" : "India",
+"price":121
+  },
+   {
+    "id":54,
+    "image":"https://images.meesho.com/images/products/485049722/uvrmh_512.webp",
+    "Name" : "Top | White Cotton & Bell Sleeves Top For Woman's and Girls | Round Neck Top For Women| White Top | Woman's Plain top | Casual Top | Summer Wear top | Long Sleeve White Top | Bell Sleeves Top | White colour top for women party wear |",
+
+"Fabric" : "Cotton Blend",
+
+"Sleeve Length" : "Three-Quarter Sleeves",
+
+"Pattern" : "Embroidered",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" :  
+
+"S (Bust Size : 34 in, Length Size: 25 in)",
+
+"M (Bust Size" : "36 in, Length Size: 26 in)",
+
+"L (Bust Size" : "38 in, Length Size: 26 in)",
+
+"XL (Bust Size" : "40 in, Length Size: 27 in)",
+
+"XXL (Bust Size": "42 in, Length Size: 27 in)",
+"Country of Origin" : "India",
+
+"price": 174
+  },
+  {
+    "id":55,
+    "image":"https://images.meesho.com/images/products/470054683/il3ts_512.webp",
+    "Name" : "Butterfly Print Levendar color Round Neck Half Sleeves Stretchable Ribbed Crop Top",
+"Fabric" : "Lycra",
+"Sleeve Length" : "Three-Quarter Sleeves",
+"Pattern" : "Solid",
+"Net Quantity (N)" : 1,
+"Sizes" :  "S (Bust Size : 32 in, Length Size: 16 in)",
+"M(Bust Size" : "31 in, Length Size: 16 in)",
+"L(Bust Size" : "32 in, Length Size: 17 in)",
+"XL(Bust Size" : "33 in, Length Size: 18 in)",
+ "Sizes Available" :  "S, M, L, XL",
+"Country of Origin" : "India",
+"price":155
+  }
+],
+"multi":[
+   {
       "id": 1,
       "Name": "Premium Quality Trending Design Choker Jewellery Set For Women & Girls",
       "image": "https://images.meesho.com/images/products/314436847/e3tw3_512.webp",
@@ -177,12 +1289,41 @@
       "Net Quantity (N)": "2",
       "Country of Origin": "India",
       "price":115
-}
-
-],
-"dresses":[
-  {
-    "id":1,
+},
+ {
+      "id": 9,
+      "name": "Vibez by Lifelong Xena Smartwatch for Women",
+      "description": "Vibez by Lifelong Xena Smartwatch for Women with HD Display| ECG+PPG|Body Temperature|24x7 Heart Rate & SpO2 Tracking| Sports Mode|IP68|10 Days Battery Backup(VBSWW126, Gold)",
+      "image": "https://m.media-amazon.com/images/I/81Tj+-rVmUL.SL1500.jpg",
+      "category": "women",
+      "price": 1380
+    },
+    {
+      "id": 10,
+      "name": "Vibez by Lifelong Bold Smartwatch For Men",
+      "description": "Vibez by Lifelong Bold Smartwatch For Men Bluetooth Calling 1.32 HD Display|24x7 Heart Rate & SpO2 Tracking|Sports Mode|Sleep Monitor|IP67|7 days Battery Backup (VBSWM999, Black)",
+      "image": "https://m.media-amazon.com/images/I/61b5eq+S7+L.SL1500.jpg",
+      "category": "men",
+      "price": 2449
+    },
+    {
+      "id": 11,
+      "name": "Fire-Boltt Ninja Call Pro Plus Smart Watch 1.83 inch",
+      "description": "Fire-Boltt Ninja Call Pro Plus Smart Watch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes, IP67 Rating, 240x280 Pixel High Resolution (Black)",
+      "image": "https://m.media-amazon.com/images/I/61rmkmqD5VL.SL1500.jpg",
+      "category": "men",
+      "price": 999
+    },
+    {
+      "id": 12,
+      "name": "Boat Storm Call 3 Smart Watch",
+      "description": "Boat Storm Call 3 with Turn-by-Turn Navigation, 1.83\" HD Display, Bluetooth Calling, Crest+ OS, QR Tray, Watch Face Studio, Emergency SOS (Active Black)",
+      "image": "https://m.media-amazon.com/images/I/61A9rFdBjtL.SL1500.jpg",
+      "category": "men",
+      "price": 999
+    },
+     {
+    "id":13,
     "Name": "MIRAL satarangi lace border traditional georgette saree",
 
 "Saree Fabric" : "Chinon",
@@ -208,7 +1349,7 @@
 "image":"https://images.meesho.com/images/products/532248408/qv3ir_512.webp"
   },
   {
-  "id":2,
+  "id":14,
   "Name" : "Beautiful Georgette Saree Heavy Silver Embroidery Work With Full Silver Stone Work Beautiful Saree (Green Colour)",
 
 "Saree Fabric" : "Georgette",
@@ -234,7 +1375,7 @@
 "image":"https://images.meesho.com/images/products/447448372/xyeib_512.webp"
   },
   {
-    "id":3,
+    "id":15,
     "image":"https://images.meesho.com/images/products/402607739/k1qb3_512.webp",
     "Name" : "FABRIC BY KNITTING SLEEVELESS BOX PATTERN CASUAL FORMAL PARTY WEAR WOMEN WEAR TOP T SHIRT WEDDING GIRLS",
 
@@ -262,7 +1403,7 @@
 "Country of Origin" : "India"
   },
   {
-    "id":4,
+    "id":16,
     "image":"https://images.meesho.com/images/products/485049722/uvrmh_512.webp",
     "Name" : "Top | White Cotton & Bell Sleeves Top For Woman's and Girls | Round Neck Top For Women| White Top | Woman's Plain top | Casual Top | Summer Wear top | Long Sleeve White Top | Bell Sleeves Top | White colour top for women party wear |",
 
@@ -290,7 +1431,7 @@
 "price": 174
   },
   {
-    "id":5,
+    "id":17,
     "image":"https://images.meesho.com/images/products/162104301/vkw2i_512.webp",
     "Name" : "Latest Cat Print Jumpsuit For Women And Girls",
 
@@ -315,11 +1456,492 @@
 
 "Country of Origin" : "India",
 "price":286
-  }
-],
-"Electronic":[
+  },
   {
-    "id":1,
+ "id":18,
+    "Name" : "Self Draining Tableware Utensil Storage Box- Spoon,Knife,Fork,Chopstick,Steel Cutlery Holder/Organizer Stand For Kitchen,Dining Table Steel (C3-3Pcs Containers),Stainless Steel,Silver",
+
+"Material": "Stainless Steel",
+
+"Net Quantity (N)" : "Pack of 1",
+
+"Length": "21.5 cm",
+
+"Breadth" : "12 cm",
+
+"Height" : "10 cm",
+
+"⭐ Design of cut-out circles": "Holes are made to ensure that water flows through the base when you use this spoon holder as a drying rack.",
+
+"⭐ Design" :  "Organize your kitchen and dining area with this attractive classy Spoon Stand / Cutlery Holder. Holes are provided on the stand to make sure that water flows out of it easily.",
+
+"⭐ Material" :  "Strong sturdy; Premium quality stainless steel making the stand highly durable, long lasting & rust free Presented .",
+
+"⭐ Stainless Steel": "spoon, knife chammach cutlery holder.It has Unique Cutlery Stainless Steel Stand. High-Grade Mirror Finish",
+
+"⭐ Beautiful looking": "cutlery holder which helps to keep spoons, forks, knives at one place. Also it can be used to keep near basin to keep toothbrush and other toiletries. Also its used on study table.",
+
+"⭐ Multi-Functional":  "May also use as make up holder, craft items storage, pen, pencil holder, desk organiser,brush holder",
+
+"⭐ Thicker gauge for high durability": "Rust proof and hygienic Chrome Finish with Stainless Steel Material highly durable Made From High Quality Stainless Steel.",
+
+
+"⭐ Material Used" : "Stainless Steel Thicker gauge for high durability Rust proof and hygienic Box CONTAIN 3 Pcs of spoon holder with stand Chr",
+
+"Sizes" :  "Free Size",
+
+"Country of Origin" : "India",
+"image":"https://images.meesho.com/images/products/421140476/jup4u_512.webp",
+"price":243
+  },
+  {
+    "id":19,
+    "image":"https://images.meesho.com/images/products/471995647/nqiqo_512.webp",
+    "Name" : "16 PCS SILOVERLINE CONTAINER , WITH SPOON,",
+
+"Material" : "Plastic",
+
+"Type" : "Others",
+
+
+"Features" : "Airtight",
+
+"Product Breadth" : "10 Cm",
+
+"Product Height": "10 Cm",
+
+"Product Length" : "10 Cm",
+
+"Net Quantity (N)" : "Pack Of 16",
+
+ 
+
+"Country of Origin" : "India",
+"price":389
+  },
+  {
+    "id":20,
+    "image":"https://images.meesho.com/images/products/428549417/55ce0_512.webp",
+    "Name" : "Heavy Stainless Steel Single Gas Stove",
+    "Material" : "Stainless Steel",
+"Type" : "Gas Stove Stands",
+"Product Breadth" : "30 Cm",
+"Product Height" : "7 Cm",
+"Product Length" : ",31 Cm",
+"Net Quantity (N)" : "Multipack Star India Pariwar provides you best quality single gas stove for compact kitchen. It consumes less space and is easy on pocket. Stainless steel Frame with high efficiency cast irons burners, Sturdy single piece heavy quality stainless steel Frame, Fuel efficient cast irons burners with center flame for even cooking, Ignition System : Manual, Cooktop comes in a stainless steel mirror finish Frame to make your kitchen space look more appealing, Color: Silver, Material: Stainless Steel. It also provides ease of cleaning, thus, ensuring low and easy maintenance. Eco-friendly Blue Flame Powerful Burners - This Cooktop saves 15% of your Gas compared to others. It has lowest %age of carbon Monoxide & carbon dioxide is less than 0.02%, making it an eco-friendly cooktop. Package Content : 1 main unit, 1 cast irons burners ,1 Steel pan support big, 1.5 Meter ISI Gas pipe with 2 clamps , 1 lighter ,4 Rubber Legs.",
+"Country of Origin" : "India",
+"price":609
+  },
+  {
+    "id":21,
+    "image":"https://images.meesho.com/images/products/507854498/eciso_512.webp",
+    "Name" : "Mini Grinder Electric Stainless Steel (pack of 1 )",
+"Product Breadth" : "21 Cm",
+"Product Height" : "10 Cm",
+"Product Length" : "16.5 Cm",
+"Country of Origin" : "India",
+"price":574
+  },
+  {
+    "id":22,
+    "image":"https://images.meesho.com/images/products/527641427/rppcz_512.webp",
+    "Name" : "Mixer",
+"Product Breadth" : "18 Cm",
+"Product Height" : "22 Cm",
+"Product Length" : "18 Cm",
+"1.Motor" : "Equipped with a high-speed motor that delivers efficient performance and durability.",
+
+"2.3 Stainless Steel Jars" : "Comes with 3 jars (1.5L, 1L, and 0.4L) for grinding, mixing, and blending.",
+
+"3.Pulse Function" : "Features a pulse function for added control and precision.",
+
+"4.Overload Protection" : "Automatic shut-off in case of overload for safety and motor protection.",
+
+"5.Ergonomic Design" : "Sleek and compact design for easy handling and storage.",
+"jar Specifications":"This versatile Mixer Grinder is designed to make your cooking experience effortless and efficient. With its powerful motor and 3 stainless steel jars, it can handle a variety of tasks, from grinding spices to mixing batter.",
+
+"1.Liquidizing Jar (1.5L)" : "Ideal for blending juices, milkshakes, and other liquids.",
+
+"2.Dry Grinding Jar (1L)" : "Perfect for grinding spices, coffee beans, and other dry ingredients.",
+
+"3.Chutney Jar (0.4L)": "Great for grinding chutneys, sauces, and other semi-liquid ingredients.",
+"1.Motor1" : "600Watt",
+
+"2.Voltage" : "230V",
+
+"3.Frequency" : "50Hz",
+"Country of Origin": "India",
+"price":1307
+
+
+  },
+  {
+    "id":23,
+    "image":"https://images.meesho.com/images/products/373277683/hsyw7_512.webp",
+    "Name" : "Stainless Steel 2-Tier Kitchen Rack and Organizer Spice Rack and Container Organizer, Utensils Dishes Spices Jar holder rack and cup and glass holder (2 Layer Spice Rack) Sliver",
+
+"Material": "Stainless Steel",
+
+"Product Breadth" : "10 Cm",
+
+"Product Height" : "10 Cm",
+
+"Product Length" : "24 Cm",
+
+"Net Quantity (N)": "Pack Of 1",
+"Country of Origin" :  "India",
+"price":191
+
+  },
+  {
+    "id":24,
+    "image":"https://images.meesho.com/images/products/158190947/incy0_512.webp",
+    "Name" : "trendy retro women women trouser",
+
+"Fabric" : "Cotton Blend",
+
+"Pattern" : "Solid",
+
+"Net Quantity (N)" : 1,
+
+
+"Sizes" :  "24 (Waist Size : 24 in, Length Size: 36 in, Hip Size: 32 in)",
+
+"26 (Waist Size" : "26 in, Length Size: 38 in, Hip Size: 34 in)",
+
+"28 (Waist Size" : "28 in, Length Size: 38 in, Hip Size: 36 in)",
+
+"30 (Waist Size" : "30 in, Length Size: 38 in, Hip Size: 38 in)",
+
+"32 (Waist Size": "32 in, Length Size: 38 in, Hip Size: 40 in)",
+
+"34 (Waist Size" : "34 in, Length Size: 38 in, Hip Size: 42 in)",
+
+"36 (Waist Size": "36 in, Length Size: 38 in, Hip Size: 44 in)",
+
+"XS (Waist Size" : "22 in, Length Size: 36 in, Hip Size: 30 in)",
+
+"S (Waist Size" : "28 in, Length Size: 37 in, Hip Size: 36 in)",
+
+"M (Waist Size" : "30 in, Length Size: 37 in, Hip Size: 38 in)",
+
+"L (Waist Size" : "32 in, Length Size: 37 in, Hip Size: 40 in)",
+
+"XL (Waist Size" : "34 in, Length Size: 37 in, Hip Size: 42 in)",
+
+"XXL (Waist Size" : "36 in, Length Size: 37 in, Hip Size: 44 in)",
+"Country of Origin" : "India",
+"price":114
+  },
+  {
+    "id":25,
+    "image":"https://images.meesho.com/images/products/302925060/5utfv_512.webp",
+    "Name" : "Dream Beauty Fashion Women's Solid Bell Bottoms Black Trousers & Pants",
+
+"Fabric" : "Polyester",
+
+"Pattern" : "Solid",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" :  "26 (Waist Size : 24 in, Length Size: 39 in, Hip Size: 34 in)",
+
+"28 (Waist Size" : "28 in, Length Size: 38 in, Hip Size: 36 in)",
+
+"30 (Waist Size" : "30 in, Length Size: 38 in, Hip Size: 38 in)",
+
+"32 (Waist Size" : "32 in, Length Size: 38 in, Hip Size: 40 in)",
+
+"34 (Waist Size" : "34 in, Length Size: 38 in, Hip Size: 42 in)",
+
+"36 (Waist Size" : "36 in, Length Size: 38 in, Hip Size: 44 in)",
+"Country of Origin" : "India",
+"price":192
+  },
+   
+  {
+    "id":26,
+    "image":"https://images.meesho.com/images/products/470054683/il3ts_512.webp",
+    "Name" : "Butterfly Print Levendar color Round Neck Half Sleeves Stretchable Ribbed Crop Top",
+"Fabric" : "Lycra",
+"Sleeve Length" : "Three-Quarter Sleeves",
+"Pattern" : "Solid",
+"Net Quantity (N)" : 1,
+"Sizes" :  "S (Bust Size : 32 in, Length Size: 16 in)",
+"M(Bust Size" : "31 in, Length Size: 16 in)",
+"L(Bust Size" : "32 in, Length Size: 17 in)",
+"XL(Bust Size" : "33 in, Length Size: 18 in)",
+ "Sizes Available" :  "S, M, L, XL",
+"Country of Origin" : "India",
+"price":155
+  },
+    {
+    "id":27,
+    "Name" : "30 Liter Waterproof backpack bag School/College/Office & Travels Use",
+
+"Material" : "Fabric",
+
+"No. of Compartments" : 1,
+
+"Pattern" : "Printed",
+
+"Net Quantity (N)" : 1,
+
+"Sizes":  "Free Size (Length Size - 31 cm, Width Size: 20 cm, Height Size: 40 cm)",
+
+ "image":"https://images.meesho.com/images/products/477173781/pjzmc_512.webp",
+
+
+"Country of Origin" : "India",
+"price":380
+  },
+  {
+    "id":28,
+    "Name": "Stylish Printed Backpack - Perfect for School, College, and Travel Adventures for Girls",
+
+"Material" : "Polyester",
+
+"No. of Compartments" : 5,
+
+"Pattern" : "Printed",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" :  "Free Size (Length Size : 18 in, Width Size: 13 in)",
+
+ "image":"https://images.meesho.com/images/products/475785010/3qbzw_512.webp",
+
+"Country of Origin" : "India",
+"price":363
+
+  },
+   {
+    "id":29,
+    "image":"https://images.meesho.com/images/products/475142762/ucrvq_512.webp",
+    "Name" : "Combo of 4in1 Red Edition Liquid Lipstick Pack of 1",
+
+
+"Finish" : "Matte",
+
+"Color" : "Red",
+
+"Type" : "Liquid",
+
+"Net Quantity (N)" : "1,Combo of 4in1 Red Edition Liquid Lipstick Pack of 1",
+"price":102
+
+ 
+  },
+  {
+"id":30,
+"image":"https://images.meesho.com/images/products/475330531/gu0mv_512.webp",
+"Name" : "Red4 Miss Perfect Liquid Lip Cream | Non Transfer Liquid Lipstick | Matte Finish | Long Lasting and Waterproof Liquid Lipstick",
+
+
+"Brand Name" : "RED4",
+
+"Finish" : "Matte",
+
+"Color" : "Peach Pink",
+
+"Type" : "Liquid",
+
+"Net Quantity (N)": 1,
+
+"Add On" : "No Add on",
+"Country of Origin" : "India",
+"price":95
+  },
+  {
+    "id":31,
+    "Name" : "BRIT ACCENT Combo Pack Of 2|Depth Of Ocean-Canyon|Parfum|Long-Lasting|Specially Currated| Eau de Toilette - 100 ml (For Men & Women)",
+"image":"https://images.meesho.com/images/products/407003700/yycd5_512.webp",
+"Type" : "Perfume",
+
+"Brand" : "BRIT ACCENT",
+
+"Flavour" : "Apricot",
+
+"Net Quantity (N)" : 2,
+"Directions" :  "focus on pulse points (wrists, neck, behind ears), spray a light mist from a few inches away, and avoid rubbing",
+"Ingredients" :"Denatured Ethyl Alcohol,Parfum(Fragrances), Aqua(Water), Isopropyl Myristate, Ppg 20 (Methyl Glucose Ether)",
+"Safety Information" :  "KEEP IN A COOL PLACE",
+
+"Country of Origin" : "India",
+"price":169
+
+  },
+  {
+    "id":32,
+    "image":"https://images.meesho.com/images/products/11473676/2vap4_512.webp",
+    "Name" : "Wildplay Chocolate 30ml Spray Perfume I Body Spray I Deo I Scent I For Men Women",
+
+"Wildplay Pocket": "Perfume 35ml Newyork 35ml Party Set of 2",
+
+"Country of Origin" : "India",
+"price":151
+  },
+  {
+    "id":33,
+    "image":"https://images.meesho.com/images/products/233825964/fq7dd_512.webp",
+    "Name" : "TYA 6155",
+
+"Brand" : "Others",
+
+"Color" : "Multicolor",
+
+"Flavour" : "No Flavour",
+
+"Net Quantity (N)" : 1,
+
+"Country of Origin" : "India",
+"price":215
+
+
+  },
+  {
+    "id":34,
+    "image":"https://images.meesho.com/images/products/415287552/ts7fk_512.webp",
+    "Name" : "daily use face makeup kit for women eyeshadow makeup brush lipstick compact mascara eyeliner",
+"Color" : "Combo Of Different Color",
+"Flavour" : "No Flavour",
+"Net Quantity (N)" : 11,
+"Country of Origin" : "India",
+"price":214
+  },
+  {
+    "id":35,
+    "image":"https://images.meesho.com/images/products/422034950/lxcpd_512.webp",
+    "Name" : "Seven Seas Fine Touch Waterproof Total Oil Control Liquid Foundation(Natural,12ML)",
+"Finish" : "Matte",
+"Shade" : "Natural",
+"Type" : "Liquid",
+"Net Quantity (N)" : 1,
+"price":95
+  },
+  {
+    "id":36,
+    "image":"https://images.meesho.com/images/products/278548474/xbc5h_512.webp",
+    "Name" : "Makeup combo of compact powder, 6 in 1 brushes set, blender puff (set of 3 items)",
+"Finish": "Matte",
+"Shade" : "Beige",
+"Type" : "Powder",
+"Net Quantity (N)" : 1,
+"Country of Origin" : "India",
+"price":114
+  },
+
+  {
+    "id":37,
+    "Name" : "Daniel Clark Handbag Beautiful Handbags For Girls and Ladies",
+"image":"https://images.meesho.com/images/products/194885424/hvchs_512.webp",
+"Material" : "PU",
+
+"No. of Compartments" : 1,
+
+"Pattern" : "Solid",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" : "Free Size (Length Size: 29 in, Width Size: 3 in, Height Size: 21 in)",
+
+"Country of Origin" : "India",
+"price":244
+  },
+  {
+    "id":38,
+    "Name" : "New Classic Latest Pattern designed handbag for girls and women |Qiara Collection|Hanbags|",
+"image":"https://images.meesho.com/images/products/392506657/dfjm4_512.webp",
+"Material" : "PU",
+
+"No. of Compartments" : 2,
+
+"Pattern" : "Printed",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" : "Free Size (Length Size: 18 in, Width Size: 12 in, Height Size: 14 in)",
+
+ 
+
+"Country of Origin" : "India",
+"price":206
+  },
+  {
+    "id":39,
+    "Name" : "Darklin Bags for Women, Hobo Bag, Stylish Leather Bag For Women Handbags Female Simple Large High Capacity Shoulder Bag Vintage Handbags Large Bag Big space handbag for women",
+"image":"https://images.meesho.com/images/products/433308186/opd5b_512.webp",
+"Material" : "PU",
+
+"No. of Compartments" : 2,
+
+"Pattern" : "Solid",
+
+"Net Quantity (N)" : 1,
+
+"Sizes" : "Free Size (Length Size: 20 in, Width Size: 15 in, Height Size: 5 in)",
+
+"Country of Origin" : "India",
+"price":321
+  },
+  {
+    "id":40,
+"image":"https://images.meesho.com/images/products/481788744/brs8b_512.webp",
+    "Name" : "65L Strolley Duffel Bag Travel Duffel Luggage Heavy Duty Bag For Men & Women",
+
+"Material" : "Polyester",
+
+"Type" : "Travel",
+
+"Water Resistant" : "Yes",
+
+"Print Or Pattern Type" : "Textured",
+
+"No. Of Compartments" : 4,
+
+
+"Compartment Closure" : "Zip",
+
+"Side Pockets" : 2,
+
+"Strap Type" : "Two Short Handles with Velcro",
+
+"Size" : "Onesize",
+
+"Features" : "Foldable",
+
+"Net Quantity (N)" : 1,
+
+
+"Country of Origin" : "India",
+"price":282
+  },
+{
+      "id": 41,
+      "name": "SELLORIA Analog White Dial Kids Watch",
+      "description": "SELLORIA Analog White Dial Boys' & Girls' Watch - Best Gift for Kids",
+      "image": "https://m.media-amazon.com/images/I/61CxUFXaJ9L.SY879.jpg",
+      "category": "kids",
+      "price": 1000
+    },
+    {
+      "id": 42,
+      "name": "Matrix Multi Dial Analog Watch",
+      "description": "Matrix Black, Blue, White Dial, Day & Date Functioning, Stainless Steel Strap Analog Watch for Men & Women",
+      "image": "https://m.media-amazon.com/images/I/816eXKgDfIL.SY879.jpg",
+      "category": "men",
+      "price": 574
+    },
+    {
+      "id": 43,
+      "name": "Matrix Daisy Collection Watch",
+      "description": "Matrix Daisy Collection | Stone Studded Dial with Designer Stone Studded Bracelet Chain Analog Watch for Women & Girls",
+      "image": "https://m.media-amazon.com/images/I/71-AwogLPqL.SX679.jpg",
+      "category": "women",
+      "price": 1499
+    },
+      {
+    "id":44,
     "Name" : "Z2 ENC Neckband 12 hours playtime bluetooth wireless headphones earphone bluetooth headset",
 
  
@@ -364,7 +1986,7 @@
 
   },
   {
-    "id":2,
+    "id":45,
     "Name" : "Neckband True Wireless Bluetooth Earphones",
 
  
@@ -408,7 +2030,196 @@
 "Country of Origin" : "China",
 "image":"https://images.meesho.com/images/products/461463502/s5zqv_400.webp",
 "price":385
-  }
+  },
+  {
+    "id":46,
+    "Name" : "AESTMO Back Case Cover for Oppo Reno 8T 5G Back Cover | Cute Fun Cartoon 3D Ball | Coffee Silicone Case | Full Body Protection | Camera Protection Back Cover for Oppo Reno 8T 5G (Black)",
+
+"Brand" : "AESTMO",
+
+"Color" : "Black",
+
+"Compatible Models" : "OPPO Reno 8T 5G",
+
+"Material" : "Silicon",
+
+"Net Quantity (N)" : 1,
+
+"Theme" : "Animals/Birds/Nature",
+
+"Type" : "Designer",
+
+"Adorable 3D Design" : "The cute cartoon coffee cup design in 3D adds a unique and playful element to your phone, making it stand out with a fun and stylish look.",
+
  
+
+"Premium Liquid Silicone" : "Made from high-quality liquid silicone, this case provides a soft, comfortable grip and excellent protection against drops, scratches, and everyday use.",
+
+"Country of Origin ": "India",
+"image":"https://images.meesho.com/images/products/542786931/blx4z_512.webp",
+"price":241
+},
+{
+  "id":47,
+  "Name" : "Oppo F29 5G | Plating Bling Gradient Glitter Clear Soft TPU Silicone Silicon Back Cover",
+
+"Brand" : "Others",
+
+"Color" : "Blue",
+
+"Compatible Models" : "Oppo F29 5G",
+
+"Material" : "Silicone",
+
+"Net Quantity (N)" : 1,
+
+"Theme" : "No Theme",
+
+"Type" : "Plain",
+"Country of Origin" : "India",
+"image":"https://images.meesho.com/images/products/537865715/gteqr_512.webp",
+"price":229
+},
+{
+  "id":48,
+  "Name" : "Fancy cool product",
+  "image":"https://images.meesho.com/images/products/537292340/ripab_512.webp",
+"Battery Charge Time" : "1 Hour",
+
+"Bluetooth Range" : "10m",
+
+"Charging Type" : "Type C",
+
+"Color" : "Green",
+
+"Compatibility" : "All Smartphones",
+
+"Mic" :"Yes",
+
+"Model Name" : "WIRELESS BUDS",
+
+"Net Quantity (N)" : 1,
+
+"Noise Cancelling" : "Yes",
+
+"Play Time" : "10 Hours",
+
+"Type" : "TWS",
+
+"Warranty Period" : "1 Month",
+
+"Warranty Type" : "Carry In",
+
+"Country of Origin" : "India",
+"price":285
+},
+{
+"id":49,
+"Name" :"Bluetooth Speaker 4D Mini Electroplating Round Steel Speaker",
+"image":"https://images.meesho.com/images/products/530891793/4mgmx_512.webp",
+ "Color" : "Blue",
+
+"Configuration" : "Stereo",
+
+"Material" : "ABS Plastic",
+
+"Model Name" :"000",
+
+"Net Quantity (N)" : 1,
+
+"Product Type" : "Mobile/Tablet Speaker",
+
+"Type" : "TWS",
+
+"Country of Origin" : "India",
+"price":251
+
+},
+{
+  "id":50,
+  "Name" : "Wireless Bluetooth Speakers A005 Stereo Audio deep bass Portable Rechargeable Splash/Waterproof Flashing LED Light Best Wireless/Gaming/Outdoor/Home Audio Bluetooth Speaker/Speakers with tf/FM Slot /005",
+"image":"https://images.meesho.com/images/products/407977562/cciv2_512.webp",
+"Aux" : "No",
+
+"BIS/ISI Certification Number" : 0,
+
+"Bluetooth Range" : "10 Mtr",
+
+"Charging Type" : "Micro USB",
+
+"Color" : "Multi",
+
+"Compatibility" : "All Mobile Devices",
+
+"Control Button" : "Yes",
+
+"Mic" : "Yes",
+
+"Model Name" : "005",
+
+"Net Quantity (N)" : 1,
+
+"Noise Cancelling" : "No",
+
+"Product Type" : "Mobile/Tablet Speaker",
+
+"Warranty Period" : "1 Year",
+
+"Warranty Type" : "Carry In",
+
+"Water Resistant" :"No",
+
+"Country of Origin" :"China",
+"price":410
+
+},
+{
+  "id":51,
+  "image":"https://images.meesho.com/images/products/531841657/fd72q_512.webp",
+  "Name" : "VIGNESHGENIX Stainless Steel Plain Top (5-pcs) with Lid |Versality & strong Durability Plain Top |Rust-proof Steel Plain Top With Lid",
+
+"Material" : "Stainless Steel",
+
+"Microwave Safe" : "Yes",
+
+"Product Breadth" : "22 Cm",
+
+"Product Height" : "12 Cm",
+
+"Product Length" : "22 Cm",
+"Net Quantity (N)" : "Pack Of 5",
+"With Lid Design" : "Keeps food covered, warm, and hygienic",
+"Multi-Purpose Use" : "Ideal for boiling milk, cooking, and storing various foods",
+"Durable & Long-Lasting" : "Built to withstand daily kitchen wear and tear",
+"Elegant & Functional" : "Mirror finish and compact design suit any modern kitchen",
+"Country of Origin" : "India",
+"price":636
+
+
+},
+{
+  "id":52,
+  "image":"https://images.meesho.com/images/products/171366426/83aw7_512.webp",
+  "Name" : "Apeiron Stainless Steel Lota Shape 300 ml Ghee / Oil Pot Container pack of 3 Jars & Containers",
+
+"Material" : "Stainless Steel",
+
+"Type" : "Others",
+
+"Features" : "Freezersafe",
+
+"Product Breadth" : "8 Cm",
+
+"Product Height" : "9 Cm",
+
+"Product Length" : "8 Cm",
+
+"Net Quantity (N)": "Pack Of 3",
+"Country of Origin" : "India",
+"price":586
+}
+
+
+
 ]
 }

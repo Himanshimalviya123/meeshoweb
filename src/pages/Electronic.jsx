@@ -1,10 +1,16 @@
+import myimg25 from "../images/image11.webp";
+
+import myimg26 from "../images/d1.webp";
+import myimg27 from "../images/d2.webp";
+import myimg28 from "../images/d3.webp";
+import myimg29 from "../images/d4.webp";
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 
-import { addToCart } from '../cartslice';
+import { addToCart } from '../cartSlice';
 import { useDispatch } from 'react-redux';
 
 const Electronic=()=>{
@@ -25,6 +31,9 @@ const Electronic=()=>{
  const ans=mydata.map((key)=>{
     return(
         <>
+
+
+
      <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src={key.image} />
       <Card.Body>
@@ -53,10 +62,26 @@ const Electronic=()=>{
         <>
 
            
+{/* <img src={myimg} width="100%" height="400px" /> */}
 
-      <h1> Our Latest Watches for Kids</h1>
+
+
+      <h1> Our electronic devices</h1><br/>
+      <br/>
       <div id='cardData'>
       {ans}
+      </div>
+      <div className="image-container">
+        <img src={myimg25}/>
+      
+        <div class="overlay-div top-left"><img src={myimg26} />
+        <div className="sum">Summer Dresses</div></div>
+        <div class="overlay-div bottom-right"><img src={myimg27} />
+        <div className="sum">Baggy Jeans</div></div>
+        <div class="overlay-div center"><img src={myimg28} />
+        <div className="sum">Earrings</div></div>
+        <div class="overlay-div center1"><img src={myimg29} />
+        <div className="sum">Chic Flat </div></div>
       </div>
       
         </>

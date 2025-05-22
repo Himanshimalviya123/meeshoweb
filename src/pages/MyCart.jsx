@@ -1,9 +1,9 @@
 import { useSelector, useDispatch } from "react-redux";
 import Table from 'react-bootstrap/Table';
 import { CiSquarePlus } from "react-icons/ci";
-
+import meesho4 from "../images/meesho4.png";
 import { CiSquareMinus } from "react-icons/ci";
-import { qtyDecr,qtyIncr,proRemove } from "../cartslice";
+import { qtyDecr,qtyIncr,proRemove } from "../cartSlice";
 import { FaIndianRupeeSign } from "react-icons/fa6";
 
 const MyCart =()=>{
@@ -39,8 +39,11 @@ const MyCart =()=>{
         )
     })
     return(
-        <>
-           <h1> My Cart Products</h1> 
+      <>
+       <img src={meesho4} width="100%" height="400px" /> 
+
+        
+           <h1 className="original"> My Cart Products</h1> 
            <h2 align="center"><FaIndianRupeeSign/>  : {TotAmount}</h2> 
            <hr />
            <Table id="tab" >

@@ -13,13 +13,13 @@ import Card from 'react-bootstrap/Card';
 import { addToCart } from '../cartSlice';
 import { useDispatch } from 'react-redux';
 
-const Watches=()=>{
+const Bags=()=>{
  const [mydata, setMydata]= useState([]);
  const dispatch = useDispatch();
 
  const loadData=async()=>{
     
-    const response = await axios.get("http://localhost:3000/products");
+    const response = await axios.get("http://localhost:3000/bags");
     console.log(response.data);
     setMydata(response.data);
  }
@@ -34,12 +34,12 @@ const Watches=()=>{
      <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src={key.image} />
       <Card.Body>
-        <Card.Title> {key.name} </Card.Title>
+        <Card.Title> {key.name} </Card.Title><br/>
         <Card.Text>
-         Description :{key.description}
-         Price : {key.price}
+       Material :{key.Material}<br/>
+         Price : {key.price}<br/>
         </Card.Text>
-        <Button variant="primary" onClick={()=>{dispatch(addToCart({id:key.id, name:key.name, description:key.description, category:key.category,  image:key.image,qnty:1,  price:key.price}))}}>Add to Cart</Button>
+        <Button variant="primary" onClick={()=>{dispatch(addToCart({id:key.id, name:key.name, Material:key.Material,   image:key.image,qnty:1,  price:key.price}))}}>Add to Cart</Button>
       </Card.Body>
     </Card>
         
@@ -78,4 +78,4 @@ const Watches=()=>{
     )
 }
 
-export default Watches;
+export default Bags;

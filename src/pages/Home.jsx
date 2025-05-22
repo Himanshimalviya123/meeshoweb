@@ -1,5 +1,6 @@
 
 
+
 import { GiReturnArrow } from "react-icons/gi";
 import { HiCurrencyRupee } from "react-icons/hi";
 import { ImPriceTags } from "react-icons/im";
@@ -21,9 +22,9 @@ import myimg10 from "../images/b2.webp";
 import myimg111 from "../images/b3.webp";
 import myimg12 from "../images/b4.webp";
 import myimg13 from "../images/b5.webp";
-import myimg14 from "../images/b6.webp";
-import myimg15 from "../images/b7.webp";
-import myimg16 from "../images/b8.webp";
+// import myimg14 from "../images/b6.webp";
+// import myimg15 from "../images/b7.webp";
+// import myimg16 from "../images/b8.webp";
 
 import myimg17 from "../images/s1.webp";
 import myimg18 from "../images/s2.webp";
@@ -58,7 +59,7 @@ const Home=()=>{
 
  const loadData=async()=>{
     
-    const response = await axios.get(BackendURL);
+    const response = await axios.get("http://localhost:3000/multi");
     console.log(response.data);
     setMydata(response.data);
  }
@@ -70,7 +71,8 @@ const Home=()=>{
  const ans=mydata.map((key)=>{
     return(
         <>
-     <Card style={{ width: '18rem' }}>
+     
+     <Card style={{ width: '18rem' }} className="card">
       <Card.Img variant="top" src={key.image}
       style={{cursor:"pointer"}} onClick={()=>{navigate(`/prodisplay/${key.id}`)}} />
       <Card.Body>
@@ -82,47 +84,11 @@ const Home=()=>{
         <Button variant="primary" onClick={()=>{dispatch(addToCart({id:key.id, name:key.name, description:key.description, category:key.category,  image:key.image,qnty:1,  price:key.price}))}}>Add to Cart</Button>
       </Card.Body>
     </Card>
+    
 
 
 
-    <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src={key.image} />
-      <Card.Body>
-        <Card.Title> {key.name} </Card.Title>
-        <Card.Text>
-         BaseMetal :{key.BaseMetal}<br/>
-         plating:{key.plating}<br/>
-         stone type:{key.stonetype}<br/>
-         Price : {key.price}
-
-        </Card.Text>
-        <Button variant="primary" onClick={()=>{dispatch(addToCart({id:key.id, name:key.name, BaseMetal:key.BaseMetal,plating:key.plating, stonetype:key.stonetype, image:key.image,qnty:1,  price:key.price}))}}>Add to Cart</Button>
-      </Card.Body>
-    </Card>
-    <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src={key.image}/>
-      <Card.Body>
-        <Card.Title> {key.name} </Card.Title>
-        <Card.Text>
-         Description :{key.description}
-         Price : {key.price}
-        </Card.Text>
-        <Button variant="primary" onClick={()=>{dispatch(addToCart({id:key.id, name:key.name, description:key.description, category:key.category,  image:key.image,qnty:1,  price:key.price}))}}>Add to Cart</Button>
-      </Card.Body>
-    </Card>
-      <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src={key.image} />
-      <Card.Body>
-        <Card.Title> {key.name} </Card.Title>
-        <Card.Text>
-        Charging Type :{key.ChargingType}
-        Color :{key.Color}
-       
-         Price : {key.price}
-        </Card.Text>
-        <Button variant="primary" onClick={()=>{dispatch(addToCart({id:key.id, name:key.name, ChargingType:key.ChargingType, Color:key.Color,  image:key.image,qnty:1,  price:key.price}))}}>Add to Cart</Button>
-      </Card.Body>
-    </Card>
+  
         
         </>
     )
@@ -166,16 +132,12 @@ const Home=()=>{
 <h5>footwear</h5></div>
 <div><img src={myimg5}  />
 <h5>home decor</h5></div>
-<div><img src={myimg6}  />
-<h5>beauty</h5></div>
-<div><img src={myimg7}  />
-<h5>Accessories</h5></div>
-<div><img src={myimg8}  />
-<h5>grocery</h5></div>
+
+
 
      </div>
      <img src={myimg11}  width="100%" height="400px" />
-     <center><h1>Original Brands</h1></center>
+     <center><div className="original"><h1>ORIGINAL BRANDS</h1></div></center>
      <div id="brands">
       
 
@@ -184,9 +146,7 @@ const Home=()=>{
       <div><img src={myimg111}/></div>
       <div><img src={myimg12}/></div>
       <div><img src={myimg13}/></div>
-      <div><img src={myimg14}/></div>
-      <div><img src={myimg15}/></div>
-      <div><img src={myimg16}/></div>
+      
      </div>
      <marquee>
      <div id="brands-name">
@@ -204,15 +164,19 @@ const Home=()=>{
   <img src={myimg25}/>
 
   <div class="overlay-div top-left"><img src={myimg26} />
-  <div>Summer Dresses</div></div>
+  <div className="sum">Summer Dresses</div></div>
   <div class="overlay-div bottom-right"><img src={myimg27} />
-  <div>Baggy Jeans</div></div>
+  <div className="sum">Baggy Jeans</div></div>
   <div class="overlay-div center"><img src={myimg28} />
-  <div>Earrings</div></div>
+  <div className="sum">Earrings</div></div>
   <div class="overlay-div center1"><img src={myimg29} />
-  <div>Chic Flat </div></div>
+  <div className="sum">Chic Flat </div></div>
 </div>
 
+ <h1 className="original"> OUR PRODUCTS</h1>
+      <div className='cardData1'>
+      {ans}
+      </div>
 
         </>
     )

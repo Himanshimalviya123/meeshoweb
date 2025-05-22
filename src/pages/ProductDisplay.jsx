@@ -5,7 +5,7 @@ const ProductDisplay=()=>{
     const {id} = useParams();
     const [mydata, setMydata] = useState({});
     const loadData=async()=>{
-        let api=`http://localhost:3000/products/${id}`;
+        let api=`http://localhost:3000/multi/${id}`;
          const response = await axios.get(api);
          console.log(response.data);
          setMydata(response.data);
@@ -13,7 +13,6 @@ const ProductDisplay=()=>{
     useEffect(()=>{
         loadData();
     }, []);
-    
 
     return(
         <>

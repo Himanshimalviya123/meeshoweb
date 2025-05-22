@@ -16,21 +16,23 @@ const Topmenu=()=>{
 
  <Navbar.Brand href="#home"></Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link as={Link} to="home">home</Nav.Link>
+            <Nav.Link as={Link} to="home">Home</Nav.Link>
 
             {/* <Nav.Link as={Link} to="menwatches">Men Watches</Nav.Link> */}
             {/* <Nav.Link as={Link} to="womenwatches">Women Watches</Nav.Link> */}
            
-            <Nav.Link as={Link} to="Womenethnic">Women Ethnic</Nav.Link>
-             <Nav.Link as={Link} to="Womenwestern">women western</Nav.Link>
-            <Nav.Link as={Link} to="Home & kitchen">Home & kitchen </Nav.Link>
-            <Nav.Link as={Link} to="Beauty & health">Beauty & health </Nav.Link>
-             <Nav.Link as={Link} to="jewellery">jewellery</Nav.Link>
-            <Nav.Link as={Link} to="Bags & Footwear ">Bags & Footwear </Nav.Link>
+            <Nav.Link as={Link} to="Womenethnic">Women & Ethnic</Nav.Link>
+             
+            <Nav.Link as={Link} to="kitchen">Kitchen </Nav.Link>
+            <Nav.Link as={Link} to="Beauty">Beauty </Nav.Link>
+             <Nav.Link as={Link} to="jewellery">Jewellery</Nav.Link>
+            <Nav.Link as={Link} to="bags">Bags</Nav.Link>
+
             <Nav.Link as={Link} to="Electronic">Electronic  </Nav.Link>
-            <Nav.Link as={Link} to="watches">watches</Nav.Link>
+            <Nav.Link as={Link} to="Womenwestern">Women & western</Nav.Link>
+            <Nav.Link as={Link} to="watches">Watches</Nav.Link>
             <Nav.Link as={Link} to="search">Search</Nav.Link>
-            
+
 
              
 

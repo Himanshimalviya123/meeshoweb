@@ -5,9 +5,9 @@ const Footer=()=>{
            www.myshop.com
          </div> */}
             <footer id="ftr">
-            <center><h5>
+            <center><h1>
               MEESHO  ONLINE  SHOPING  APP
-            </h5></center>
+            </h1></center>
          <div id="footer">
             <div>
             <h3>Shop Non-Stop on Meesho.</h3><br/>

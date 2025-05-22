@@ -1,6 +1,3 @@
-
-
-
 import { configureStore } from "@reduxjs/toolkit";
 import cartReducer from "./cartSlice";
 import { persistStore, persistReducer } from "redux-persist";
@@ -13,10 +10,10 @@ const persistConfig = {
 
 const persistedReducer = persistReducer(persistConfig, cartReducer);
 
-const store = configureStore({
+const Store = configureStore({
     reducer:{
         mycart:persistedReducer
     }
 })
-export default store;
-export const persistor = persistStore(store);
+export default Store;
+export const persistor=persistStore(Store);

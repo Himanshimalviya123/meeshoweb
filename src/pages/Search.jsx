@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react';
-// import BackendURL from "../config/backendUrl";
 import axios from 'axios';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
@@ -9,39 +8,25 @@ const Search=()=>{
  const [mydata, setMydata]= useState([]);
  const dispatch = useDispatch();
  const [product, setProduct] = useState("");
-
-
- const loadData=async()=>{
-    const response = await axios.get("http://localhost:3000/products");
+const loadData=async()=>{
+    const response = await axios.get("http://localhost:3000/multi");
     console.log(response.data);
     setMydata(response.data);
  }
  useEffect(()=>{
     loadData();
  }, []);
-
-
 const handleInput=(e)=>{
       let value= e.target.value;
       setProduct(value);
 }
-
-
-
-
-
-
-
- const ans=mydata.map((key)=>{
-     let myval= product.toLocaleLowerCase();
-     let mystr= key.name.toLocaleLowerCase();
+const ans=mydata.map((key)=>{
+     let myval= product.toLowerCase();
+     let mystr= key.name.toLowerCase();
    let status= mystr.includes(myval);
-   
-   if (status)
+if (status)
    {
-
-
-    return(
+return(
         <>
      <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src={key.image} />
@@ -58,15 +43,11 @@ const handleInput=(e)=>{
     )
    }  
  })
-
-    return(
+ return(
         <> 
       <h1> Our Latest Products</h1>
-        
         <center>
-
-       
-        Enter Product Name : <input type="text" value={product}
+          Enter Product Name : <input type="text" value={product}
         onChange={handleInput} />
        </center>
        <br /> <br /> <br />
